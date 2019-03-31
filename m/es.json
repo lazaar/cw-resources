@@ -1,0 +1,4858 @@
+[
+	{
+		"crosswords": [
+			{
+				"width": 10,
+				"height": 16,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Sword Art Online: ¿Cuál es el tipo de espada Asuna?",
+						"type": "text",
+						"answer": "estoque",
+						"letters": "AKYeeoqstuu"
+					},
+					{
+						"x": 0,
+						"y": 3,
+						"direction": "v",
+						"title": "Angel Beats",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ooyama.jpg",
+						"type": "image",
+						"answer": "ooyama",
+						"letters": "ABaacmooty"
+					},
+					{
+						"x": 3,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Naruto / shippuden: ¿qué quiere ser Naruto?",
+						"type": "text",
+						"answer": "hokage",
+						"letters": "DRTaeghjko"
+					},
+					{
+						"x": 5,
+						"y": 2,
+						"direction": "h",
+						"title": "Naruto",
+						"content": "https://lazaar.github.io/cw-resources/m/i/sasuke.jpg",
+						"type": "image",
+						"answer": "sasuke",
+						"letters": "aeeknssuuv"
+					},
+					{
+						"x": 1,
+						"y": 7,
+						"direction": "v",
+						"title": "personaje",
+						"content": "https://lazaar.github.io/cw-resources/m/i/akane.jpg",
+						"type": "image",
+						"answer": "akane",
+						"letters": "FOTXaaekn"
+					},
+					{
+						"x": 5,
+						"y": 4,
+						"direction": "v",
+						"title": "DBZ",
+						"content": "Dragonball Z: ¿Cuántas Esferas del Dragón hay?",
+						"type": "text",
+						"answer": "siete",
+						"letters": "OZeehiost"
+					},
+					{
+						"x": 0,
+						"y": 9,
+						"direction": "v",
+						"title": "El Detective Conan",
+						"content": "https://lazaar.github.io/cw-resources/m/i/conan.jpg",
+						"type": "image",
+						"answer": "conan",
+						"letters": "UVVacdnno"
+					},
+					{
+						"x": 3,
+						"y": 7,
+						"direction": "h",
+						"title": "El Detective Conan",
+						"content": "https://lazaar.github.io/cw-resources/m/i/agasa.jpg",
+						"type": "image",
+						"answer": "agasa",
+						"letters": "Caaacdgks"
+					},
+					{
+						"x": 2,
+						"y": 11,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: La pared más externa es la pared ___",
+						"type": "text",
+						"answer": "maria",
+						"letters": "Kaacimmor"
+					},
+					{
+						"x": 5,
+						"y": 11,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Boku No Hero: ¿Quién es el personaje principal?",
+						"type": "text",
+						"answer": "izuku",
+						"letters": "EGIikruuz"
+					}
+				]
+			},
+			{
+				"width": 14,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "nombre de anime",
+						"content": "https://lazaar.github.io/cw-resources/m/i/deathnote.jpg",
+						"type": "image",
+						"answer": "deathnote",
+						"letters": "MUacdeehjnott"
+					},
+					{
+						"x": 2,
+						"y": 3,
+						"direction": "h",
+						"title": "Noragami",
+						"content": "https://lazaar.github.io/cw-resources/m/i/hiyori.jpg",
+						"type": "image",
+						"answer": "hiyori",
+						"letters": "KNQhiioqry"
+					},
+					{
+						"x": 0,
+						"y": 8,
+						"direction": "v",
+						"title": "Gintama",
+						"content": "https://lazaar.github.io/cw-resources/m/i/elizabeth.jpg",
+						"type": "image",
+						"answer": "elizabeth",
+						"letters": "Xabbeehijlqtz"
+					},
+					{
+						"x": 4,
+						"y": 7,
+						"direction": "h",
+						"title": "Tokyo Ghoul",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kaneki.jpg",
+						"type": "image",
+						"answer": "kaneki",
+						"letters": "Tadeikkknz"
+					},
+					{
+						"x": 1,
+						"y": 10,
+						"direction": "v",
+						"title": "Angel Beats",
+						"content": "https://lazaar.github.io/cw-resources/m/i/angel.jpg",
+						"type": "image",
+						"answer": "angel",
+						"letters": "Haaeglnxy"
+					},
+					{
+						"x": 7,
+						"y": 6,
+						"direction": "h",
+						"title": "Boku No Hero",
+						"content": "https://lazaar.github.io/cw-resources/m/i/katsuki.jpg",
+						"type": "image",
+						"answer": "katsuki",
+						"letters": "aijkkkstuwx"
+					},
+					{
+						"x": 7,
+						"y": 6,
+						"direction": "v",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/killua.jpg",
+						"type": "image",
+						"answer": "killua",
+						"letters": "BQTaikllru"
+					},
+					{
+						"x": 11,
+						"y": 5,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Pokémon: ¿Qué tipo de Pokémon es Charmander?",
+						"type": "text",
+						"answer": "fuego",
+						"letters": "Yefginouu"
+					},
+					{
+						"x": 6,
+						"y": 12,
+						"direction": "v",
+						"title": "Death Note",
+						"content": "https://lazaar.github.io/cw-resources/m/i/light.jpg",
+						"type": "image",
+						"answer": "light",
+						"letters": "Mghilptwz"
+					},
+					{
+						"x": 10,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Cowboy bebop: Este personaje se involucró con algunos tipos malos, pero lo único que quería era pagar las enormes facturas médicas de su hermana.",
+						"type": "text",
+						"answer": "roco",
+						"letters": "Ncghoorr"
+					}
+				]
+			},
+			{
+				"width": 14,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 1,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Bleach: ¿Cómo se llaman las espadas de los Segadores de almas?",
+						"type": "text",
+						"answer": "zanpakuto",
+						"letters": "GSaafjknoptuz"
+					},
+					{
+						"x": 3,
+						"y": 1,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Alquimista de Acero: Edward y su hermano estaban buscando el filósofo...",
+						"type": "text",
+						"answer": "piedra",
+						"letters": "BEQWadeipr"
+					},
+					{
+						"x": 1,
+						"y": 3,
+						"direction": "v",
+						"title": "personaje",
+						"content": "https://lazaar.github.io/cw-resources/m/i/eren.jpg",
+						"type": "image",
+						"answer": "eren",
+						"letters": "BFeeenrs"
+					},
+					{
+						"x": 1,
+						"y": 6,
+						"direction": "v",
+						"title": "personaje",
+						"content": "https://lazaar.github.io/cw-resources/m/i/okabe.jpg",
+						"type": "image",
+						"answer": "okabe",
+						"letters": "EJabeekor"
+					},
+					{
+						"x": 8,
+						"y": 1,
+						"direction": "h",
+						"title": "nombre de anime",
+						"content": "https://lazaar.github.io/cw-resources/m/i/onepiece.jpg",
+						"type": "image",
+						"answer": "onepiece",
+						"letters": "DIRceeeinopy"
+					},
+					{
+						"x": 7,
+						"y": 5,
+						"direction": "v",
+						"title": "Pokemon",
+						"content": "https://lazaar.github.io/cw-resources/m/i/pikachu.jpg",
+						"type": "image",
+						"answer": "pikachu",
+						"letters": "IQUYachikpu"
+					},
+					{
+						"x": 4,
+						"y": 8,
+						"direction": "v",
+						"title": "Cowboy bebop",
+						"content": "https://lazaar.github.io/cw-resources/m/i/spike.jpg",
+						"type": "image",
+						"answer": "spike",
+						"letters": "GMTWeikps"
+					},
+					{
+						"x": 10,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: un texto enviado al pasado se llama",
+						"type": "text",
+						"answer": "dmail",
+						"letters": "SWadilmqr"
+					},
+					{
+						"x": 6,
+						"y": 7,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Code Geass: ¿Cuál es la comida favorita de C.C.?",
+						"type": "text",
+						"answer": "pizza",
+						"letters": "RVafipuzz"
+					},
+					{
+						"x": 13,
+						"y": 4,
+						"direction": "h",
+						"title": "clannad",
+						"content": "https://lazaar.github.io/cw-resources/m/i/fuko.jpg",
+						"type": "image",
+						"answer": "fuko",
+						"letters": "Ddfjkosu"
+					}
+				]
+			},
+			{
+				"width": 12,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 5,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "GTO: ¿Quién es la persona que siempre está tratando de despedir a Onizuka?",
+						"type": "text",
+						"answer": "uchiyamada",
+						"letters": "GQaaacdhiimuwy"
+					},
+					{
+						"x": 5,
+						"y": 5,
+						"direction": "h",
+						"title": "mirai nikki",
+						"content": "https://lazaar.github.io/cw-resources/m/i/amano.jpg",
+						"type": "image",
+						"answer": "amano",
+						"letters": "BSSaadmno"
+					},
+					{
+						"x": 2,
+						"y": 9,
+						"direction": "v",
+						"title": "One Piece",
+						"content": "https://lazaar.github.io/cw-resources/m/i/zoro.jpg",
+						"type": "image",
+						"answer": "zoro",
+						"letters": "FKPhoorz"
+					},
+					{
+						"x": 3,
+						"y": 8,
+						"direction": "h",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/goku.jpg",
+						"type": "image",
+						"answer": "goku",
+						"letters": "Cghkosuz"
+					},
+					{
+						"x": 4,
+						"y": 7,
+						"direction": "v",
+						"title": "nombre de anime",
+						"content": "https://lazaar.github.io/cw-resources/m/i/parasyte.jpg",
+						"type": "image",
+						"answer": "parasyte",
+						"letters": "GSXaaceprsty"
+					},
+					{
+						"x": 1,
+						"y": 11,
+						"direction": "v",
+						"title": "Tokyo Ghoul",
+						"content": "https://lazaar.github.io/cw-resources/m/i/touka.jpg",
+						"type": "image",
+						"answer": "touka",
+						"letters": "BVZakotuw"
+					},
+					{
+						"x": 1,
+						"y": 0,
+						"direction": "h",
+						"title": "Code Geass",
+						"content": "https://lazaar.github.io/cw-resources/m/i/lelouch.jpg",
+						"type": "image",
+						"answer": "lelouch",
+						"letters": "Ucehhlloouu"
+					},
+					{
+						"x": 1,
+						"y": 0,
+						"direction": "v",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/leorio.jpg",
+						"type": "image",
+						"answer": "leorio",
+						"letters": "eiilooruux"
+					},
+					{
+						"x": 0,
+						"y": 3,
+						"direction": "v",
+						"title": "El Libro De La Muerte",
+						"content": "El humano cuyo ____ está escrito en este cuaderno morirá.",
+						"type": "text",
+						"answer": "nombre",
+						"letters": "IMObbemnor"
+					},
+					{
+						"x": 11,
+						"y": 7,
+						"direction": "h",
+						"title": "FullMetal",
+						"content": "https://lazaar.github.io/cw-resources/m/i/edward.jpg",
+						"type": "image",
+						"answer": "edward",
+						"letters": "FGaddeerwz"
+					}
+				]
+			},
+			{
+				"width": 13,
+				"height": 12,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Gintama: ¿Quién usa gafas y vive en un dojo con su hermana?",
+						"type": "text",
+						"answer": "shinpachi",
+						"letters": "HJacghhiinops"
+					},
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "One Punch Man",
+						"content": "https://lazaar.github.io/cw-resources/m/i/saitama.jpg",
+						"type": "image",
+						"answer": "saitama",
+						"letters": "SYaaafimost"
+					},
+					{
+						"x": 2,
+						"y": 0,
+						"direction": "h",
+						"title": "Bleach",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ichigo.jpg",
+						"type": "image",
+						"answer": "ichigo",
+						"letters": "PPQbcghiio"
+					},
+					{
+						"x": 2,
+						"y": 2,
+						"direction": "v",
+						"title": "Fairy Tail",
+						"content": "¿Qué tipo de cazador de dragones es Gajeel Redfox?",
+						"type": "text",
+						"answer": "hierro",
+						"letters": "JQdehiiorr"
+					},
+					{
+						"x": 7,
+						"y": 1,
+						"direction": "h",
+						"title": "nombre de anime",
+						"content": "https://lazaar.github.io/cw-resources/m/i/monster.jpg",
+						"type": "image",
+						"answer": "monster",
+						"letters": "HLcemnorstt"
+					},
+					{
+						"x": 5,
+						"y": 5,
+						"direction": "v",
+						"title": "Ippo",
+						"content": "https://lazaar.github.io/cw-resources/m/i/date.jpg",
+						"type": "image",
+						"answer": "date",
+						"letters": "EORRadet"
+					},
+					{
+						"x": 6,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "One Piece: ¿Qué personaje de \"One Piece\" es el carpintero que se transformó en un cyborg?",
+						"type": "text",
+						"answer": "franky",
+						"letters": "aafgklnryy"
+					},
+					{
+						"x": 11,
+						"y": 4,
+						"direction": "h",
+						"title": "Elfen Lied",
+						"content": "https://lazaar.github.io/cw-resources/m/i/lucy.jpg",
+						"type": "image",
+						"answer": "lucy",
+						"letters": "NTcfkluy"
+					},
+					{
+						"x": 10,
+						"y": 7,
+						"direction": "h",
+						"title": "SAO",
+						"content": "https://lazaar.github.io/cw-resources/m/i/klein.jpg",
+						"type": "image",
+						"answer": "klein",
+						"letters": "Edeiklnsw"
+					},
+					{
+						"x": 9,
+						"y": 10,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Cuál era el apodo de Light?",
+						"type": "text",
+						"answer": "kira",
+						"letters": "LRUaaikr"
+					}
+				]
+			},
+			{
+				"width": 13,
+				"height": 12,
+				"questions": [
+					{
+						"x": 0,
+						"y": 1,
+						"direction": "v",
+						"title": "Code Geass",
+						"content": "https://lazaar.github.io/cw-resources/m/i/cornelia.jpg",
+						"type": "image",
+						"answer": "cornelia",
+						"letters": "BFHJaceilnor"
+					},
+					{
+						"x": 1,
+						"y": 1,
+						"direction": "h",
+						"title": "Ao No Exorcist",
+						"content": "https://lazaar.github.io/cw-resources/m/i/okumura.jpg",
+						"type": "image",
+						"answer": "okumura",
+						"letters": "akmooppruuu"
+					},
+					{
+						"x": 0,
+						"y": 5,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Cowboy bebop: ¿A quién busca Spike cada tanto?",
+						"type": "text",
+						"answer": "julia",
+						"letters": "JQRaijlsu"
+					},
+					{
+						"x": 4,
+						"y": 4,
+						"direction": "h",
+						"title": "Your Lie In April",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kaori.jpg",
+						"type": "image",
+						"answer": "kaori",
+						"letters": "DDPZaikor"
+					},
+					{
+						"x": 3,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "GTO: Tengo el pelo largo y rubio. Tengo un ojo azul y un ojo marrón. Soy conocido como el \"Asesino de maestros\". ¿Quién soy?",
+						"type": "text",
+						"answer": "urumi",
+						"letters": "MZimmruuw"
+					},
+					{
+						"x": 7,
+						"y": 4,
+						"direction": "h",
+						"title": "personaje",
+						"content": "https://lazaar.github.io/cw-resources/m/i/yugi.jpg",
+						"type": "image",
+						"answer": "yugi",
+						"letters": "GPfginuy"
+					},
+					{
+						"x": 7,
+						"y": 6,
+						"direction": "v",
+						"title": "Code Geass",
+						"content": "https://lazaar.github.io/cw-resources/m/i/gino.jpg",
+						"type": "image",
+						"answer": "gino",
+						"letters": "HNNgikno"
+					},
+					{
+						"x": 9,
+						"y": 4,
+						"direction": "h",
+						"title": "Tokyo Ghoul",
+						"content": "https://lazaar.github.io/cw-resources/m/i/hinami.jpg",
+						"type": "image",
+						"answer": "hinami",
+						"letters": "GVafhiimnz"
+					},
+					{
+						"x": 7,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Boku No Hero: ¿Cuánto porcentaje de humanos no tienen superpoderes?",
+						"type": "text",
+						"answer": "veinte",
+						"letters": "eeilnnrstv"
+					},
+					{
+						"x": 12,
+						"y": 1,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Sword Art Online: ¿Qué grupo planeó un ataque durante la reunión de la raza Cait Sith y la carrera de Sylph?",
+						"type": "text",
+						"answer": "salamander",
+						"letters": "AIRaaadeelmnrs"
+					}
+				]
+			},
+			{
+				"width": 11,
+				"height": 15,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Código Geass: ¿Se considera que Ganymede está en qué generación de marco Knightmare?",
+						"type": "text",
+						"answer": "tercero",
+						"letters": "CMceeorrtyy"
+					},
+					{
+						"x": 0,
+						"y": 3,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: ¿Cuál es la capacidad nen de kurapika?",
+						"type": "text",
+						"answer": "cadenas",
+						"letters": "BHOaacdekns"
+					},
+					{
+						"x": 3,
+						"y": 1,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "One Piece: ¿Cuántos War Lords of the Sea hay al principio?",
+						"type": "text",
+						"answer": "siete",
+						"letters": "DJVeeistv"
+					},
+					{
+						"x": 6,
+						"y": 1,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "¿Quién es el Alquimista de Llamas?",
+						"type": "text",
+						"answer": "mustang",
+						"letters": "APaafgmnstu"
+					},
+					{
+						"x": 5,
+						"y": 5,
+						"direction": "v",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/satotz.jpg",
+						"type": "image",
+						"answer": "satotz",
+						"letters": "DZacdosttz"
+					},
+					{
+						"x": 8,
+						"y": 2,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "¿Quién es el músico esqueleto viviente en 'One Piece'?",
+						"type": "text",
+						"answer": "brook",
+						"letters": "PUbikoory"
+					},
+					{
+						"x": 3,
+						"y": 7,
+						"direction": "v",
+						"title": "Toradora",
+						"content": "https://lazaar.github.io/cw-resources/m/i/taiga.jpg",
+						"type": "image",
+						"answer": "taiga",
+						"letters": "GYaagijst"
+					},
+					{
+						"x": 7,
+						"y": 7,
+						"direction": "h",
+						"title": "El Detective Conan",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ayumi.jpg",
+						"type": "image",
+						"answer": "ayumi",
+						"letters": "EOachimuy"
+					},
+					{
+						"x": 7,
+						"y": 10,
+						"direction": "v",
+						"title": "El Libro De La Muerte",
+						"content": "https://lazaar.github.io/cw-resources/m/i/misa.jpg",
+						"type": "image",
+						"answer": "misa",
+						"letters": "KSabimms"
+					},
+					{
+						"x": 9,
+						"y": 10,
+						"direction": "h",
+						"title": "No Game No Life",
+						"content": "https://lazaar.github.io/cw-resources/m/i/shiro.jpg",
+						"type": "image",
+						"answer": "shiro",
+						"letters": "Qhikkmors"
+					}
+				]
+			},
+			{
+				"width": 13,
+				"height": 12,
+				"questions": [
+					{
+						"x": 1,
+						"y": 1,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿Quién es el jefe de Anteiku?",
+						"type": "text",
+						"answer": "yoshimura",
+						"letters": "NZachimorsuwy"
+					},
+					{
+						"x": 2,
+						"y": 1,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Boku No Hero: ¿Cuál es el quirk especial que allmight le da a Izuku?",
+						"type": "text",
+						"answer": "oneforall",
+						"letters": "FZaefhllnoors"
+					},
+					{
+						"x": 1,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Dragonball Z: ¿Quién era la mano derecha de Frieza a quien Piccolo mata?",
+						"type": "text",
+						"answer": "sauza",
+						"letters": "MTaaefsuz"
+					},
+					{
+						"x": 9,
+						"y": 1,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: ¿Quién le enseña a Eren un movimiento rápido y efectivo en el entrenamiento?",
+						"type": "text",
+						"answer": "annie",
+						"letters": "EFRaeiinn"
+					},
+					{
+						"x": 5,
+						"y": 6,
+						"direction": "h",
+						"title": "personaje-nombre anime",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kaiji.jpg",
+						"type": "image",
+						"answer": "kaiji",
+						"letters": "NRaiijknx"
+					},
+					{
+						"x": 9,
+						"y": 3,
+						"direction": "v",
+						"title": "One Piece",
+						"content": "https://lazaar.github.io/cw-resources/m/i/nami.jpg",
+						"type": "image",
+						"answer": "nami",
+						"letters": "AZZagimn"
+					},
+					{
+						"x": 7,
+						"y": 5,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: Habilidad nen de Hisoka",
+						"type": "text",
+						"answer": "bungee",
+						"letters": "beeeglnoux"
+					},
+					{
+						"x": 3,
+						"y": 10,
+						"direction": "v",
+						"title": "El Alquimista de Acero",
+						"content": "https://lazaar.github.io/cw-resources/m/i/pride.jpg",
+						"type": "image",
+						"answer": "pride",
+						"letters": "QZZdeikpr"
+					},
+					{
+						"x": 12,
+						"y": 2,
+						"direction": "h",
+						"title": "SAO",
+						"content": "https://lazaar.github.io/cw-resources/m/i/silica.jpg",
+						"type": "image",
+						"answer": "silica",
+						"letters": "FIUaciilqs"
+					},
+					{
+						"x": 0,
+						"y": 5,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Alquimista de Acero: ¿Qué Homúnculo irrumpe en Fort Briggs por el piso?",
+						"type": "text",
+						"answer": "sloth",
+						"letters": "Chlmopstx"
+					}
+				]
+			},
+			{
+				"width": 13,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "¿Con qué equipo juega kusaga ryuhei?",
+						"type": "text",
+						"answer": "masakuni",
+						"letters": "ETXaaikmnnsu"
+					},
+					{
+						"x": 2,
+						"y": 1,
+						"direction": "h",
+						"title": "Tokyo Ghoul",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kouta.jpg",
+						"type": "image",
+						"answer": "kouta",
+						"letters": "HIWakkotu"
+					},
+					{
+						"x": 0,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Boku No Hero: ¿Quién es el rival del personaje principal?",
+						"type": "text",
+						"answer": "katsuki",
+						"letters": "CJaikkqstuw"
+					},
+					{
+						"x": 6,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: Rintaro le da a Moeka un apodo: Shining _____",
+						"type": "text",
+						"answer": "finger",
+						"letters": "Mdefginrwz"
+					},
+					{
+						"x": 4,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Monster: ¿Quién sigue a Tenma?",
+						"type": "text",
+						"answer": "dieter",
+						"letters": "LNdeeeijrt"
+					},
+					{
+						"x": 8,
+						"y": 4,
+						"direction": "h",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/vegeta.jpg",
+						"type": "image",
+						"answer": "vegeta",
+						"letters": "adeegmtvxy"
+					},
+					{
+						"x": 1,
+						"y": 9,
+						"direction": "v",
+						"title": "Soul Eater",
+						"content": "https://lazaar.github.io/cw-resources/m/i/maka.jpg",
+						"type": "image",
+						"answer": "maka",
+						"letters": "RUaaakmn"
+					},
+					{
+						"x": 8,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Shokugeki no Souma: ¿Quién obtuvo el mejor puntaje en las elecciones preliminares de otoño?",
+						"type": "text",
+						"answer": "alice",
+						"letters": "KNaaceikl"
+					},
+					{
+						"x": 4,
+						"y": 7,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Sword Art Online: Kirito conoció a un domador de bestias llamado Silica cuyo familiar, Pina, ¿era de qué tipo de bestias?",
+						"type": "text",
+						"answer": "dragon",
+						"letters": "CDKadgknor"
+					},
+					{
+						"x": 12,
+						"y": 6,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: La segunda pared más externa es la pared ___",
+						"type": "text",
+						"answer": "rose",
+						"letters": "DMNdeors"
+					}
+				]
+			},
+			{
+				"width": 13,
+				"height": 12,
+				"questions": [
+					{
+						"x": 0,
+						"y": 1,
+						"direction": "v",
+						"title": "nombre de anime",
+						"content": "https://lazaar.github.io/cw-resources/m/i/codegeass.jpg",
+						"type": "image",
+						"answer": "codegeass",
+						"letters": "Eabcdeegosstu"
+					},
+					{
+						"x": 0,
+						"y": 1,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Cowboy bebop: ¿Qué se supone que Faye debe obtener de un jugador cuando trabaja en un casino?",
+						"type": "text",
+						"answer": "chip",
+						"letters": "Kchikptz"
+					},
+					{
+						"x": 7,
+						"y": 1,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "One Punch Man: ¿cuál es el verdadero nombre de “One Punch Man”?",
+						"type": "text",
+						"answer": "saitama",
+						"letters": "Eaaaefimsty"
+					},
+					{
+						"x": 5,
+						"y": 3,
+						"direction": "v",
+						"title": "Bleach",
+						"content": "https://lazaar.github.io/cw-resources/m/i/orihime.jpg",
+						"type": "image",
+						"answer": "orihime",
+						"letters": "BHehiiimoqr"
+					},
+					{
+						"x": 2,
+						"y": 7,
+						"direction": "v",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/hisoka.jpg",
+						"type": "image",
+						"answer": "hisoka",
+						"letters": "DGSUahikos"
+					},
+					{
+						"x": 5,
+						"y": 5,
+						"direction": "h",
+						"title": "Psycho-pass",
+						"content": "https://lazaar.github.io/cw-resources/m/i/shougo.jpg",
+						"type": "image",
+						"answer": "shougo",
+						"letters": "CRTghoopsu"
+					},
+					{
+						"x": 2,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: ¿Cómo se llama el padre de Gon?",
+						"type": "text",
+						"answer": "ging",
+						"letters": "CJggiikn"
+					},
+					{
+						"x": 9,
+						"y": 3,
+						"direction": "h",
+						"title": "Steins Gate",
+						"content": "https://lazaar.github.io/cw-resources/m/i/itaru.jpg",
+						"type": "image",
+						"answer": "itaru",
+						"letters": "ailrstuyy"
+					},
+					{
+						"x": 9,
+						"y": 5,
+						"direction": "v",
+						"title": "Durarara",
+						"content": "https://lazaar.github.io/cw-resources/m/i/anri.jpg",
+						"type": "image",
+						"answer": "anri",
+						"letters": "JOailnrz"
+					},
+					{
+						"x": 11,
+						"y": 5,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "One Piece: ¿Cuál es el nombre del zombi que Moria dejó poseer la sombra de Brooke en el Thriller Bark Arc?",
+						"type": "text",
+						"answer": "ryuuma",
+						"letters": "RYafmruuxy"
+					}
+				]
+			}
+		]
+	},
+	{
+		"crosswords": [
+			{
+				"width": 14,
+				"height": 13,
+				"questions": [
+					{
+						"x": 1,
+						"y": 0,
+						"direction": "v",
+						"title": "Naruto",
+						"content": "¿Qué miembro de Akatsuki es asesinado en una batalla con Sasuke?",
+						"type": "text",
+						"answer": "deidara",
+						"letters": "Raaddefinpr"
+					},
+					{
+						"x": 3,
+						"y": 5,
+						"direction": "v",
+						"title": "One Punch Man",
+						"content": "https://lazaar.github.io/cw-resources/m/i/genos.jpg",
+						"type": "image",
+						"answer": "genos",
+						"letters": "OXeegnors"
+					},
+					{
+						"x": 6,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Alquimista de Acero Brotherhood: ¿Dónde está la cicatriz en el cuerpo de Scar que da lugar a su nombre?",
+						"type": "text",
+						"answer": "rostro",
+						"letters": "DHSkoorrst"
+					},
+					{
+						"x": 5,
+						"y": 5,
+						"direction": "h",
+						"title": "personaje",
+						"content": "https://lazaar.github.io/cw-resources/m/i/naruto.jpg",
+						"type": "image",
+						"answer": "naruto",
+						"letters": "Qafmnorttu"
+					},
+					{
+						"x": 2,
+						"y": 8,
+						"direction": "v",
+						"title": "Angel Beats",
+						"content": "https://lazaar.github.io/cw-resources/m/i/yuzuru.jpg",
+						"type": "image",
+						"answer": "yuzuru",
+						"letters": "DEQVruuuyz"
+					},
+					{
+						"x": 7,
+						"y": 7,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Fairy tails: ¿De quién está enamorado Lyon Bastia?",
+						"type": "text",
+						"answer": "juvia",
+						"letters": "DFRaijquv"
+					},
+					{
+						"x": 10,
+						"y": 6,
+						"direction": "h",
+						"title": "Toradora",
+						"content": "https://lazaar.github.io/cw-resources/m/i/minori.jpg",
+						"type": "image",
+						"answer": "minori",
+						"letters": "Maiiilmnor"
+					},
+					{
+						"x": 9,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Fairy tail: ¿Cuál es el nombre del país en el que se encuentran los personajes?",
+						"type": "text",
+						"answer": "fiore",
+						"letters": "BCefikors"
+					},
+					{
+						"x": 6,
+						"y": 11,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Eyeshield 21 : ¿Cuál es el verdadero nombre de panther?",
+						"type": "text",
+						"answer": "patrick",
+						"letters": "AOYacikkprt"
+					},
+					{
+						"x": 13,
+						"y": 6,
+						"direction": "h",
+						"title": "Pokemon",
+						"content": "https://lazaar.github.io/cw-resources/m/i/mew.jpg",
+						"type": "image",
+						"answer": "mew",
+						"letters": "BXdelmw"
+					}
+				]
+			},
+			{
+				"width": 9,
+				"height": 15,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: Raza de seres extradimensionales que sobreviven matando humanos para extender sus propias vidas.",
+						"type": "text",
+						"answer": "shinigami",
+						"letters": "abegghiiimnsx"
+					},
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "Kill la kill",
+						"content": "https://lazaar.github.io/cw-resources/m/i/satsuki.jpg",
+						"type": "image",
+						"answer": "satsuki",
+						"letters": "DFQXaiksstu"
+					},
+					{
+						"x": 0,
+						"y": 2,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: Este demonio ama a Kaneki y quiere comérselo",
+						"type": "text",
+						"answer": "tsukiyama",
+						"letters": "HKRUaaikmstuy"
+					},
+					{
+						"x": 0,
+						"y": 13,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿Quién mata a Mado?",
+						"type": "text",
+						"answer": "touka",
+						"letters": "aeehkoqtu"
+					},
+					{
+						"x": 6,
+						"y": 10,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Code Geass: Shirley le dijo a Lelouch qué miembro de su familia fue asesinado en Narita, ¿quién era?",
+						"type": "text",
+						"answer": "padre",
+						"letters": "LVadekprt"
+					},
+					{
+						"x": 0,
+						"y": 5,
+						"direction": "v",
+						"title": "Gintama",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kagura.jpg",
+						"type": "image",
+						"answer": "kagura",
+						"letters": "HXYaagkqru"
+					},
+					{
+						"x": 4,
+						"y": 5,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Dragonball Z: ¿Quién le enseña a Goku el Kamehame-Ha?",
+						"type": "text",
+						"answer": "roshi",
+						"letters": "MThiorssx"
+					},
+					{
+						"x": 1,
+						"y": 8,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Cowboy bebop: ¿Cuál es el equipo favorito de Miles?",
+						"type": "text",
+						"answer": "bluesox",
+						"letters": "DIZbellosux"
+					},
+					{
+						"x": 1,
+						"y": 9,
+						"direction": "v",
+						"title": "Ataque a los Titanes",
+						"content": "https://lazaar.github.io/cw-resources/m/i/levi.jpg",
+						"type": "image",
+						"answer": "levi",
+						"letters": "LPdehilv"
+					},
+					{
+						"x": 1,
+						"y": 11,
+						"direction": "v",
+						"title": "Re: Zero",
+						"content": "https://lazaar.github.io/cw-resources/m/i/emilia.jpg",
+						"type": "image",
+						"answer": "emilia",
+						"letters": "BZaeiilmov"
+					}
+				]
+			},
+			{
+				"width": 14,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "Angel Beats",
+						"content": "https://lazaar.github.io/cw-resources/m/i/fujimaki.jpg",
+						"type": "image",
+						"answer": "fujimaki",
+						"letters": "abdfhiijkmuw"
+					},
+					{
+						"x": 2,
+						"y": 0,
+						"direction": "h",
+						"title": "Naruto",
+						"content": "https://lazaar.github.io/cw-resources/m/i/jiraiya.jpg",
+						"type": "image",
+						"answer": "jiraiya",
+						"letters": "aachiijrtvy"
+					},
+					{
+						"x": 0,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Bleach: ¿Qué versión inicial de Zanpakuto se activa con el comando \"Growl\"?",
+						"type": "text",
+						"answer": "haineko",
+						"letters": "ANWaefhikno"
+					},
+					{
+						"x": 2,
+						"y": 2,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Cuál es el nombre del shinigami que dejó caer su El Libro De La Muerte a Light?",
+						"type": "text",
+						"answer": "ryuk",
+						"letters": "AELkqruy"
+					},
+					{
+						"x": 6,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿Cuál es el hobby favorito de Mayuris?",
+						"type": "text",
+						"answer": "cosplay",
+						"letters": "Eacdiloprsy"
+					},
+					{
+						"x": 6,
+						"y": 3,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Code Geass: Después de la muerte del Príncipe Clovis, ¿quién se convirtió en Virrey del Área 11?",
+						"type": "text",
+						"answer": "cornelia",
+						"letters": "DEEVaceilnor"
+					},
+					{
+						"x": 3,
+						"y": 8,
+						"direction": "v",
+						"title": "Steins Gate",
+						"content": "https://lazaar.github.io/cw-resources/m/i/mikasa.jpg",
+						"type": "image",
+						"answer": "mikasa",
+						"letters": "Yaaiikmmsz"
+					},
+					{
+						"x": 6,
+						"y": 5,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Gintama: ¿Qué le gusta comer a Kagura?",
+						"type": "text",
+						"answer": "sukonbus",
+						"letters": "Kbbhknossuux"
+					},
+					{
+						"x": 4,
+						"y": 8,
+						"direction": "h",
+						"title": "Durarara",
+						"content": "https://lazaar.github.io/cw-resources/m/i/izaya.jpg",
+						"type": "image",
+						"answer": "izaya",
+						"letters": "Eaafimryz"
+					},
+					{
+						"x": 4,
+						"y": 11,
+						"direction": "v",
+						"title": "Mirai nikki",
+						"content": "https://lazaar.github.io/cw-resources/m/i/yuno.jpg",
+						"type": "image",
+						"answer": "yuno",
+						"letters": "QVhmnouy"
+					}
+				]
+			},
+			{
+				"width": 12,
+				"height": 15,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿En qué área de Tokyo Steins Gate se lleva a cabo?",
+						"type": "text",
+						"answer": "akihabara",
+						"letters": "Zaaaabhijkorv"
+					},
+					{
+						"x": 4,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿Cuál es el nombre de la cafetería que recibió a Kaneki?",
+						"type": "text",
+						"answer": "anteiku",
+						"letters": "ISabeikmntu"
+					},
+					{
+						"x": 2,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Naruto / shippuden: ¿Qué jutsu le enseñó Kakashi a Sasuke?",
+						"type": "text",
+						"answer": "chidori",
+						"letters": "Vcdehiiorst"
+					},
+					{
+						"x": 4,
+						"y": 2,
+						"direction": "v",
+						"title": "Bleach",
+						"content": "Bleach: ¿Qué es el Bankai de Ichigo?",
+						"type": "text",
+						"answer": "tensa",
+						"letters": "GLVaejnst"
+					},
+					{
+						"x": 8,
+						"y": 4,
+						"direction": "h",
+						"title": "Kuroko no Basket",
+						"content": "https://lazaar.github.io/cw-resources/m/i/izuki.jpg",
+						"type": "image",
+						"answer": "izuki",
+						"letters": "Aiiknpsuz"
+					},
+					{
+						"x": 6,
+						"y": 8,
+						"direction": "v",
+						"title": "Prison School",
+						"content": "https://lazaar.github.io/cw-resources/m/i/meiko.jpg",
+						"type": "image",
+						"answer": "meiko",
+						"letters": "BGehikkmo"
+					},
+					{
+						"x": 6,
+						"y": 8,
+						"direction": "h",
+						"title": "Parasyte",
+						"content": "https://lazaar.github.io/cw-resources/m/i/migi.jpg",
+						"type": "image",
+						"answer": "migi",
+						"letters": "CYgiimuy"
+					},
+					{
+						"x": 10,
+						"y": 4,
+						"direction": "h",
+						"title": "Buko No Hero",
+						"content": "https://lazaar.github.io/cw-resources/m/i/shoto.jpg",
+						"type": "image",
+						"answer": "shoto",
+						"letters": "LTdhjoost"
+					},
+					{
+						"x": 6,
+						"y": 10,
+						"direction": "v",
+						"title": "Fairy Tail",
+						"content": "https://lazaar.github.io/cw-resources/m/i/gajeel.jpg",
+						"type": "image",
+						"answer": "gajeel",
+						"letters": "HTaaeegjln"
+					},
+					{
+						"x": 11,
+						"y": 10,
+						"direction": "h",
+						"title": "Agame Ga kill",
+						"content": "https://lazaar.github.io/cw-resources/m/i/leone.jpg",
+						"type": "image",
+						"answer": "leone",
+						"letters": "Dceelnnor"
+					}
+				]
+			},
+			{
+				"width": 12,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "GTO",
+						"content": "https://lazaar.github.io/cw-resources/m/i/onizuka.jpg",
+						"type": "image",
+						"answer": "onizuka",
+						"letters": "MRaiknotuuz"
+					},
+					{
+						"x": 5,
+						"y": 0,
+						"direction": "h",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/krillin.jpg",
+						"type": "image",
+						"answer": "krillin",
+						"letters": "JJMbiikllnr"
+					},
+					{
+						"x": 4,
+						"y": 2,
+						"direction": "v",
+						"title": "FullMetal",
+						"content": "https://lazaar.github.io/cw-resources/m/i/winry.jpg",
+						"type": "image",
+						"answer": "winry",
+						"letters": "FFYcinrwy"
+					},
+					{
+						"x": 2,
+						"y": 5,
+						"direction": "v",
+						"title": "Steins Gate",
+						"content": "https://lazaar.github.io/cw-resources/m/i/makise.jpg",
+						"type": "image",
+						"answer": "makise",
+						"letters": "GYaeikkmqs"
+					},
+					{
+						"x": 3,
+						"y": 4,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿Quién torturó a Kaneki cortando sus dedos y pidiéndole que cuente de manera regresiva 1000 a 7?",
+						"type": "text",
+						"answer": "jason",
+						"letters": "RWajnosyz"
+					},
+					{
+						"x": 7,
+						"y": 5,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Fairy tails: ¿Qué miembro de Fairy Tail a menudo se llamaba 'Titania'?",
+						"type": "text",
+						"answer": "erza",
+						"letters": "INTaerxz"
+					},
+					{
+						"x": 7,
+						"y": 8,
+						"direction": "v",
+						"title": "One Piece",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ace.jpg",
+						"type": "image",
+						"answer": "ace",
+						"letters": "Racdejp"
+					},
+					{
+						"x": 5,
+						"y": 10,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: ¿Por quién se transforma Eren a un titán?",
+						"type": "text",
+						"answer": "padre",
+						"letters": "Vaddelopr"
+					},
+					{
+						"x": 3,
+						"y": 12,
+						"direction": "v",
+						"title": "Pokemon",
+						"content": "https://lazaar.github.io/cw-resources/m/i/bulbasaur.jpg",
+						"type": "image",
+						"answer": "bulbasaur",
+						"letters": "Jaabbfjlnrsuu"
+					},
+					{
+						"x": 9,
+						"y": 7,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Dragonball Z: \"¡Soy el Príncipe de todos los Saiyajin!\", ¿dice quién?",
+						"type": "text",
+						"answer": "vegeta",
+						"letters": "MORaeegktv"
+					}
+				]
+			},
+			{
+				"width": 17,
+				"height": 14,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "Fate/Zero",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kiritsugu.jpg",
+						"type": "image",
+						"answer": "kiritsugu",
+						"letters": "BDJRgiikrstuu"
+					},
+					{
+						"x": 0,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Bleach: Utilizo una cuchilla de sierra segmentada grande con cada segmento conectado por bandas extensibles. Tiene la capacidad de ser manejado como un látigo, aunque sólo se puede girar tres veces seguidas…",
+						"type": "text",
+						"answer": "zabimaru",
+						"letters": "BDaabbimruuz"
+					},
+					{
+						"x": 7,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "One Piece: ¿Qué Fruta del Demonio comió Luffy?",
+						"type": "text",
+						"answer": "gumgum",
+						"letters": "OPPggmmruu"
+					},
+					{
+						"x": 5,
+						"y": 2,
+						"direction": "v",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/yamcha.jpg",
+						"type": "image",
+						"answer": "yamcha",
+						"letters": "Xaacdhmmny"
+					},
+					{
+						"x": 10,
+						"y": 1,
+						"direction": "h",
+						"title": "nombre de anime",
+						"content": "un anime que cuenta la historia de un ninja adolescente que busca el reconocimiento y sueña con convertirse en el líder de su pueblo.",
+						"type": "text",
+						"answer": "naruto",
+						"letters": "Yagnortuvv"
+					},
+					{
+						"x": 9,
+						"y": 6,
+						"direction": "v",
+						"title": "Your Lie In April",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kousei.jpg",
+						"type": "image",
+						"answer": "kousei",
+						"letters": "Vbegikostu"
+					},
+					{
+						"x": 10,
+						"y": 8,
+						"direction": "v",
+						"title": "Fairy Tail",
+						"content": "https://lazaar.github.io/cw-resources/m/i/charles.jpg",
+						"type": "image",
+						"answer": "charles",
+						"letters": "Iacehllmrss"
+					},
+					{
+						"x": 10,
+						"y": 8,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "One Piece: De los nueve miembros de Straw-hat, ¿cuántos tienen poderes de la Fruta del Diablo?",
+						"type": "text",
+						"answer": "cuatro",
+						"letters": "RXYachortu"
+					},
+					{
+						"x": 13,
+						"y": 6,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Alquimista de Acero: ¿Cuál es el apellido de Edward?",
+						"type": "text",
+						"answer": "elric",
+						"letters": "PUXceilpr"
+					},
+					{
+						"x": 8,
+						"y": 13,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Cowboy bebop: ¿Qué parte del cuerpo de Spike es una prótesis?",
+						"type": "text",
+						"answer": "ojo",
+						"letters": "Mejloow"
+					}
+				]
+			},
+			{
+				"width": 11,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "Soul Eater",
+						"content": "https://lazaar.github.io/cw-resources/m/i/blackstar.jpg",
+						"type": "image",
+						"answer": "blackstar",
+						"letters": "LSXaabbcklrst"
+					},
+					{
+						"x": 1,
+						"y": 3,
+						"direction": "h",
+						"title": "Cowboy Bebop",
+						"content": "https://lazaar.github.io/cw-resources/m/i/faye.jpg",
+						"type": "image",
+						"answer": "faye",
+						"letters": "CLRTaefy"
+					},
+					{
+						"x": 1,
+						"y": 5,
+						"direction": "v",
+						"title": "SAO",
+						"content": "https://lazaar.github.io/cw-resources/m/i/yuuki.jpg",
+						"type": "image",
+						"answer": "yuuki",
+						"letters": "Biknquuvy"
+					},
+					{
+						"x": 7,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: ¿Quién es el titán femenino?",
+						"type": "text",
+						"answer": "annie",
+						"letters": "BRZaeinnx"
+					},
+					{
+						"x": 5,
+						"y": 2,
+						"direction": "v",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ponzu.jpg",
+						"type": "image",
+						"answer": "ponzu",
+						"letters": "egnnnopuz"
+					},
+					{
+						"x": 5,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Fairy tails: ¿Qué tipo de magia usa Gray Fullbuster?",
+						"type": "text",
+						"answer": "hielo",
+						"letters": "Wehiklnor"
+					},
+					{
+						"x": 5,
+						"y": 4,
+						"direction": "h",
+						"title": "Tokyo Ghoul",
+						"content": "https://lazaar.github.io/cw-resources/m/i/hideyoshi.jpg",
+						"type": "image",
+						"answer": "hideyoshi",
+						"letters": "BSbdehhhiiosy"
+					},
+					{
+						"x": 0,
+						"y": 10,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: El grupo de kurapika quiere vengarse de...",
+						"type": "text",
+						"answer": "fantasma",
+						"letters": "aaaffmnprsty"
+					},
+					{
+						"x": 7,
+						"y": 8,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Alquimista de Acero: ¿Cuál es el nombre del Ishbalan que odia a los Alquimistas del Estado y los asesina porque cree que es un acto de Dios?",
+						"type": "text",
+						"answer": "scar",
+						"letters": "Uacerstw"
+					},
+					{
+						"x": 7,
+						"y": 11,
+						"direction": "v",
+						"title": "Clannad",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ryou.jpg",
+						"type": "image",
+						"answer": "ryou",
+						"letters": "FFWoruyz"
+					}
+				]
+			},
+			{
+				"width": 9,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Boku No Hero: ¿Cuál es el alias del maestro del héroe?",
+						"type": "text",
+						"answer": "allmight",
+						"letters": "DMaghijllmnt"
+					},
+					{
+						"x": 3,
+						"y": 1,
+						"direction": "v",
+						"title": "No Game No Life",
+						"content": "https://lazaar.github.io/cw-resources/m/i/dola.jpg",
+						"type": "image",
+						"answer": "dola",
+						"letters": "Kadhloqw"
+					},
+					{
+						"x": 0,
+						"y": 6,
+						"direction": "v",
+						"title": "El Detective Conan",
+						"content": "https://lazaar.github.io/cw-resources/m/i/haibara.jpg",
+						"type": "image",
+						"answer": "haibara",
+						"letters": "TVaaabhiqrw"
+					},
+					{
+						"x": 6,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Naruto / shippuden: ¿Cuál es el nombre de la serpiente más fuerte de Orochimaru?",
+						"type": "text",
+						"answer": "manda",
+						"letters": "HQQaadmmn"
+					},
+					{
+						"x": 4,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Sword Art Online: En el Mundo Árbol, Asuna era la Reina de las Hadas. ¿Cómo se llamaba ella?",
+						"type": "text",
+						"answer": "titania",
+						"letters": "Gaadiintttu"
+					},
+					{
+						"x": 3,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "En secreto me gusta Naruto. ¿Quién soy?",
+						"type": "text",
+						"answer": "hinata",
+						"letters": "QQYZaahint"
+					},
+					{
+						"x": 2,
+						"y": 8,
+						"direction": "v",
+						"title": "AOT",
+						"content": "https://lazaar.github.io/cw-resources/m/i/krista.jpg",
+						"type": "image",
+						"answer": "krista",
+						"letters": "ETabikrstw"
+					},
+					{
+						"x": 2,
+						"y": 8,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Boku No Hero: ¿Quién es el personaje mudo?",
+						"type": "text",
+						"answer": "koji",
+						"letters": "BGLijkoy"
+					},
+					{
+						"x": 7,
+						"y": 8,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Sword Art Online: Yolko, Caynz y Schmitt eran parte del gremio llamado Golden ____",
+						"type": "text",
+						"answer": "apple",
+						"letters": "Saelnpppt"
+					},
+					{
+						"x": 4,
+						"y": 12,
+						"direction": "v",
+						"title": "Agame Ga Kill",
+						"content": "https://lazaar.github.io/cw-resources/m/i/mine.jpg",
+						"type": "image",
+						"answer": "mine",
+						"letters": "Rceijlmn"
+					}
+				]
+			},
+			{
+				"width": 10,
+				"height": 17,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿Con qué nombre llama Okabe a Kurisu?",
+						"type": "text",
+						"answer": "christina",
+						"letters": "FKRYachiinrst"
+					},
+					{
+						"x": 0,
+						"y": 8,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Code Geass: En el episodio \"La máscara robada\", un gato callejero tomó la máscara de Lelouch y huyó con ella. Después de que Lelouch se quitara la máscara sin que nadie lo supiera, Suzaku decidió quedarse con el gato. ¿Qué nombre le dio Suzaku al gato?",
+						"type": "text",
+						"answer": "arthur",
+						"letters": "Jaddhqrrtu"
+					},
+					{
+						"x": 1,
+						"y": 8,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: Mayuri se queda con Okabe porque ella es su_____",
+						"type": "text",
+						"answer": "rehen",
+						"letters": "HNeehlnqr"
+					},
+					{
+						"x": 3,
+						"y": 6,
+						"direction": "v",
+						"title": "One Piece",
+						"content": "https://lazaar.github.io/cw-resources/m/i/sabo.jpg",
+						"type": "image",
+						"answer": "sabo",
+						"letters": "Labgnosz"
+					},
+					{
+						"x": 4,
+						"y": 6,
+						"direction": "h",
+						"title": "GTO",
+						"content": "https://lazaar.github.io/cw-resources/m/i/azusa.jpg",
+						"type": "image",
+						"answer": "azusa",
+						"letters": "HMVaasuzz"
+					},
+					{
+						"x": 3,
+						"y": 10,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "¿Quién es el primer amigo de Crona?",
+						"type": "text",
+						"answer": "maka",
+						"letters": "EMaakmnr"
+					},
+					{
+						"x": 6,
+						"y": 9,
+						"direction": "h",
+						"title": "Kil la Kill",
+						"content": "https://lazaar.github.io/cw-resources/m/i/patricia.jpg",
+						"type": "image",
+						"answer": "patricia",
+						"letters": "Kaaciinprttu"
+					},
+					{
+						"x": 0,
+						"y": 15,
+						"direction": "v",
+						"title": "Gintama",
+						"content": "https://lazaar.github.io/cw-resources/m/i/gintoki.jpg",
+						"type": "image",
+						"answer": "gintoki",
+						"letters": "JTggiiknopt"
+					},
+					{
+						"x": 4,
+						"y": 12,
+						"direction": "v",
+						"title": "Kuroko No Basket",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kuroko.jpg",
+						"type": "image",
+						"answer": "kuroko",
+						"letters": "FZkkkooruz"
+					},
+					{
+						"x": 9,
+						"y": 8,
+						"direction": "h",
+						"title": "El Libro De La Muerte",
+						"content": "https://lazaar.github.io/cw-resources/m/i/mello.jpg",
+						"type": "image",
+						"answer": "mello",
+						"letters": "Xeflllmox"
+					}
+				]
+			},
+			{
+				"width": 12,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿Cuál es el nombre completo del personaje principal?",
+						"type": "text",
+						"answer": "kanekiken",
+						"letters": "IQaceeijkkknn"
+					},
+					{
+						"x": 4,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: ¿Quién es el sobreviviente del clan Kurta?",
+						"type": "text",
+						"answer": "kurapika",
+						"letters": "HVZaaikknpru"
+					},
+					{
+						"x": 1,
+						"y": 4,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: Habilidad nen de killua",
+						"type": "text",
+						"answer": "relampago",
+						"letters": "RTaaegjlmoprr"
+					},
+					{
+						"x": 4,
+						"y": 3,
+						"direction": "v",
+						"title": "Princess Monoke",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ashitaka.jpg",
+						"type": "image",
+						"answer": "ashitaka",
+						"letters": "FIaaaghijkst"
+					},
+					{
+						"x": 0,
+						"y": 7,
+						"direction": "v",
+						"title": "Naruto",
+						"content": "https://lazaar.github.io/cw-resources/m/i/gaara.jpg",
+						"type": "image",
+						"answer": "gaara",
+						"letters": "BIPaaagrw"
+					},
+					{
+						"x": 6,
+						"y": 2,
+						"direction": "h",
+						"title": "One Piece",
+						"content": "https://lazaar.github.io/cw-resources/m/i/chopper.jpg",
+						"type": "image",
+						"answer": "chopper",
+						"letters": "Accehnnoppr"
+					},
+					{
+						"x": 0,
+						"y": 10,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Code Geass: Británico honorario, Suzaku Kururugi se convirtió en el piloto, ¿de qué Knightmare experimental?",
+						"type": "text",
+						"answer": "lancelot",
+						"letters": "ALaccellnoot"
+					},
+					{
+						"x": 10,
+						"y": 3,
+						"direction": "h",
+						"title": "personaje",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kirito.jpg",
+						"type": "image",
+						"answer": "kirito",
+						"letters": "IXYiikortt"
+					},
+					{
+						"x": 8,
+						"y": 6,
+						"direction": "v",
+						"title": "Neon Genesis",
+						"content": "https://lazaar.github.io/cw-resources/m/i/rei.jpg",
+						"type": "image",
+						"answer": "rei",
+						"letters": "GQYeinr"
+					},
+					{
+						"x": 9,
+						"y": 8,
+						"direction": "v",
+						"title": "Bleach",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kon.jpg",
+						"type": "image",
+						"answer": "kon",
+						"letters": "IPbckno"
+					}
+				]
+			}
+		]
+	},
+	{
+		"crosswords": [
+			{
+				"width": 13,
+				"height": 12,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "Pokemon",
+						"content": "https://lazaar.github.io/cw-resources/m/i/charizard.jpg",
+						"type": "image",
+						"answer": "charizard",
+						"letters": "KWaacdghiorrz"
+					},
+					{
+						"x": 0,
+						"y": 6,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Bleach: ¿Quién mata al tercer Espada?",
+						"type": "text",
+						"answer": "aizen",
+						"letters": "Maeiiinxz"
+					},
+					{
+						"x": 4,
+						"y": 6,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Quién tuvo éxito en detener a Light?",
+						"type": "text",
+						"answer": "near",
+						"letters": "UVaenryy"
+					},
+					{
+						"x": 3,
+						"y": 8,
+						"direction": "v",
+						"title": "Noragami",
+						"content": "https://lazaar.github.io/cw-resources/m/i/yato.jpg",
+						"type": "image",
+						"answer": "yato",
+						"letters": "BIYaotwy"
+					},
+					{
+						"x": 6,
+						"y": 6,
+						"direction": "h",
+						"title": "Tokyo Ghoul",
+						"content": "https://lazaar.github.io/cw-resources/m/i/eto.jpg",
+						"type": "image",
+						"answer": "eto",
+						"letters": "Mceoptv"
+					},
+					{
+						"x": 6,
+						"y": 7,
+						"direction": "v",
+						"title": "Agame Ga Kill",
+						"content": "https://lazaar.github.io/cw-resources/m/i/tatsumi.jpg",
+						"type": "image",
+						"answer": "tatsumi",
+						"letters": "BHaimsttuuu"
+					},
+					{
+						"x": 12,
+						"y": 2,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Cuál es el apellido de Light?",
+						"type": "text",
+						"answer": "yagami",
+						"letters": "FGaagimuyy"
+					},
+					{
+						"x": 5,
+						"y": 4,
+						"direction": "v",
+						"title": "Code Geass",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kallen.jpg",
+						"type": "image",
+						"answer": "kallen",
+						"letters": "TTaegkllnt"
+					},
+					{
+						"x": 9,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: Murió para salvar la vida de Misa…",
+						"type": "text",
+						"answer": "gelus",
+						"letters": "Taegllnsu"
+					},
+					{
+						"x": 11,
+						"y": 7,
+						"direction": "h",
+						"title": "Kill la Kill",
+						"content": "https://lazaar.github.io/cw-resources/m/i/mako.jpg",
+						"type": "image",
+						"answer": "mako",
+						"letters": "GGKakmox"
+					}
+				]
+			},
+			{
+				"width": 8,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "FullMetal",
+						"content": "https://lazaar.github.io/cw-resources/m/i/hohenheim.jpg",
+						"type": "image",
+						"answer": "hohenheim",
+						"letters": "Fbeeghhhhimno"
+					},
+					{
+						"x": 0,
+						"y": 1,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿Quién es la sexta persona que se muestra en la apertura?",
+						"type": "text",
+						"answer": "okabe",
+						"letters": "abceiklov"
+					},
+					{
+						"x": 4,
+						"y": 0,
+						"direction": "h",
+						"title": "Fairy Tail",
+						"content": "https://lazaar.github.io/cw-resources/m/i/jellal.jpg",
+						"type": "image",
+						"answer": "jellal",
+						"letters": "EOWYaejlll"
+					},
+					{
+						"x": 0,
+						"y": 8,
+						"direction": "v",
+						"title": "Pokemon",
+						"content": "https://lazaar.github.io/cw-resources/m/i/mei.jpg",
+						"type": "image",
+						"answer": "mei",
+						"letters": "FKQeiim"
+					},
+					{
+						"x": 2,
+						"y": 6,
+						"direction": "h",
+						"title": "Spirited Away",
+						"content": "https://lazaar.github.io/cw-resources/m/i/chihiro.jpg",
+						"type": "image",
+						"answer": "chihiro",
+						"letters": "Racghhiijor"
+					},
+					{
+						"x": 3,
+						"y": 5,
+						"direction": "v",
+						"title": "Code Geass",
+						"content": "https://lazaar.github.io/cw-resources/m/i/lloyd.jpg",
+						"type": "image",
+						"answer": "lloyd",
+						"letters": "KPWdhlloy"
+					},
+					{
+						"x": 7,
+						"y": 2,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Fairy tails: ¿Quién es el más nuevo de los novatos?",
+						"type": "text",
+						"answer": "wendy",
+						"letters": "EMQdenwyz"
+					},
+					{
+						"x": 1,
+						"y": 10,
+						"direction": "v",
+						"title": "Bleach",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kisuke.jpg",
+						"type": "image",
+						"answer": "kisuke",
+						"letters": "Maeikkrsuw"
+					},
+					{
+						"x": 1,
+						"y": 12,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Cowboy bebop: ¿Cuál era el nombre de la computadora casera de Ed?",
+						"type": "text",
+						"answer": "tomato",
+						"letters": "EFTamoottt"
+					}
+				]
+			},
+			{
+				"width": 9,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Monster: ¿Cuál era el nombre de la orfanato?",
+						"type": "text",
+						"answer": "kinderheim",
+						"letters": "RVdeehiikmnrux"
+					},
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "Pokemon",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kasumi.jpg",
+						"type": "image",
+						"answer": "kasumi",
+						"letters": "RSaikmnstu"
+					},
+					{
+						"x": 0,
+						"y": 2,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Naruto / shippuden: Naruto es un contenedor de la Bestia de cola que tiene… ¿cuántas colas?",
+						"type": "text",
+						"answer": "nueve",
+						"letters": "IQeeinquv"
+					},
+					{
+						"x": 0,
+						"y": 5,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Code Geass: ¿Quién se refiere a Lloyd Asplund como \"el conde de pudín\"?",
+						"type": "text",
+						"answer": "rakshata",
+						"letters": "ARaaahkrstwy"
+					},
+					{
+						"x": 2,
+						"y": 5,
+						"direction": "h",
+						"title": "Assassination Classroom",
+						"content": "https://lazaar.github.io/cw-resources/m/i/koro.jpg",
+						"type": "image",
+						"answer": "koro",
+						"letters": "RUakooor"
+					},
+					{
+						"x": 5,
+						"y": 4,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Dragonball Z: ¿Cuál es el nombre Saiyan de Goku?",
+						"type": "text",
+						"answer": "kakarot",
+						"letters": "MNQRaakkort"
+					},
+					{
+						"x": 7,
+						"y": 2,
+						"direction": "h",
+						"title": "Monster",
+						"content": "https://lazaar.github.io/cw-resources/m/i/anna.jpg",
+						"type": "image",
+						"answer": "anna",
+						"letters": "Naannrtu"
+					},
+					{
+						"x": 4,
+						"y": 7,
+						"direction": "v",
+						"title": "Ataque a los Titanes",
+						"content": "https://lazaar.github.io/cw-resources/m/i/sasha.jpg",
+						"type": "image",
+						"answer": "sasha",
+						"letters": "DSWXaahss"
+					},
+					{
+						"x": 4,
+						"y": 9,
+						"direction": "v",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/gohan.jpg",
+						"type": "image",
+						"answer": "gohan",
+						"letters": "Yabghhnno"
+					},
+					{
+						"x": 8,
+						"y": 9,
+						"direction": "h",
+						"title": "Naruto",
+						"content": "https://lazaar.github.io/cw-resources/m/i/neji.jpg",
+						"type": "image",
+						"answer": "neji",
+						"letters": "FKbeijnn"
+					}
+				]
+			},
+			{
+				"width": 10,
+				"height": 10,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "Kuroko No Basket",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kiyoshi.jpg",
+						"type": "image",
+						"answer": "kiyoshi",
+						"letters": "BHhiikopqsy"
+					},
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Gintama: ¿Quién llama Hijikata -Toshi-?",
+						"type": "text",
+						"answer": "kondo",
+						"letters": "ABdfknoow"
+					},
+					{
+						"x": 0,
+						"y": 2,
+						"direction": "v",
+						"title": "Noragami",
+						"content": "https://lazaar.github.io/cw-resources/m/i/yukine.jpg",
+						"type": "image",
+						"answer": "yukine",
+						"letters": "Hefijknuwy"
+					},
+					{
+						"x": 0,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: ¿Quién se llama la Chica de patatas?",
+						"type": "text",
+						"answer": "sasha",
+						"letters": "CEaabhnss"
+					},
+					{
+						"x": 2,
+						"y": 4,
+						"direction": "h",
+						"title": "One Punch Man",
+						"content": "https://lazaar.github.io/cw-resources/m/i/sonic.jpg",
+						"type": "image",
+						"answer": "sonic",
+						"letters": "Vcdhinoos"
+					},
+					{
+						"x": 5,
+						"y": 1,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: ¿Qué sueña Armin con ver?",
+						"type": "text",
+						"answer": "sea",
+						"letters": "Xaefnqs"
+					},
+					{
+						"x": 2,
+						"y": 8,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Boku No Hero: ¿Qué come Izuku para obtener el AllMight?",
+						"type": "text",
+						"answer": "cabello",
+						"letters": "IQabceillor"
+					},
+					{
+						"x": 4,
+						"y": 6,
+						"direction": "v",
+						"title": "Steins Gate",
+						"content": "https://lazaar.github.io/cw-resources/m/i/mayuri.jpg",
+						"type": "image",
+						"answer": "mayuri",
+						"letters": "GLadimrtuy"
+					},
+					{
+						"x": 8,
+						"y": 4,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Cowboy bebop: El color del caballo de Andy…",
+						"type": "text",
+						"answer": "marron",
+						"letters": "VYaclmnorr"
+					}
+				]
+			},
+			{
+				"width": 10,
+				"height": 12,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Black Butler: ¿Cuál es el verdadero nombre de Ciel Phantomhive?",
+						"type": "text",
+						"answer": "angelina",
+						"letters": "DVaaegilnnnz"
+					},
+					{
+						"x": 7,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Yu-Gi-Oh: ¿Cuál es el verdadero nombre de Yami Yugi?",
+						"type": "text",
+						"answer": "atem",
+						"letters": "Naaelmqt"
+					},
+					{
+						"x": 4,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: La organización que tiene como objetivo a los ghouls es la...",
+						"type": "text",
+						"answer": "ccg",
+						"letters": "BFSSccg"
+					},
+					{
+						"x": 4,
+						"y": 4,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Kuroko no Basket: ¿Qué es Hyuga Junpei para Seirin?",
+						"type": "text",
+						"answer": "capitan",
+						"letters": "Oaacijlmnpt"
+					},
+					{
+						"x": 1,
+						"y": 7,
+						"direction": "v",
+						"title": "Angel Beats",
+						"content": "https://lazaar.github.io/cw-resources/m/i/yuri.jpg",
+						"type": "image",
+						"answer": "yuri",
+						"letters": "AINilruy"
+					},
+					{
+						"x": 6,
+						"y": 3,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿Quién fue el compañero de Kuro Mado?",
+						"type": "text",
+						"answer": "amon",
+						"letters": "BQalmnno"
+					},
+					{
+						"x": 6,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Cowboy bebop: El hombre del que Spike tomó su estilo de artes marciales, afirma que las artes marciales se tratan de ser como este elemento natural…",
+						"type": "text",
+						"answer": "agua",
+						"letters": "CEaagiuu"
+					},
+					{
+						"x": 1,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Fairy tails: ¿Quién es el maestro de 'Fairy Tail'?",
+						"type": "text",
+						"answer": "makarov",
+						"letters": "aagikmnorvv"
+					},
+					{
+						"x": 6,
+						"y": 8,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Bleach: En la primera parte del anime, ¿de qué color son los ojos de Ichimaru Gin?",
+						"type": "text",
+						"answer": "rojo",
+						"letters": "Ccjooqry"
+					},
+					{
+						"x": 5,
+						"y": 11,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Dragonball Z: ¿Quién es el guardián de modales suaves con el que Goku se encuentra y pelea por encima de la Torre de Korin?",
+						"type": "text",
+						"answer": "popo",
+						"letters": "EKXooppq"
+					}
+				]
+			},
+			{
+				"width": 11,
+				"height": 12,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/biscuit.jpg",
+						"type": "image",
+						"answer": "biscuit",
+						"letters": "Hbciijorstu"
+					},
+					{
+						"x": 2,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Fairy Tails: ¿Qué lugar alcanza Lucy en el concurso de miss fairy tail?",
+						"type": "text",
+						"answer": "segundo",
+						"letters": "Sbdddegnosu"
+					},
+					{
+						"x": 0,
+						"y": 3,
+						"direction": "h",
+						"title": "Guilty Crown",
+						"content": "https://lazaar.github.io/cw-resources/m/i/shu.jpg",
+						"type": "image",
+						"answer": "shu",
+						"letters": "HLRXhsu"
+					},
+					{
+						"x": 0,
+						"y": 4,
+						"direction": "v",
+						"title": "Prison School",
+						"content": "https://lazaar.github.io/cw-resources/m/i/hana.jpg",
+						"type": "image",
+						"answer": "hana",
+						"letters": "GYaaghny"
+					},
+					{
+						"x": 1,
+						"y": 6,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: 3º guardia real nacida",
+						"type": "text",
+						"answer": "youpi",
+						"letters": "Viioppuxy"
+					},
+					{
+						"x": 1,
+						"y": 6,
+						"direction": "h",
+						"title": "Naruto",
+						"content": "https://lazaar.github.io/cw-resources/m/i/yamato.jpg",
+						"type": "image",
+						"answer": "yamato",
+						"letters": "Qaaimotwyy"
+					},
+					{
+						"x": 5,
+						"y": 3,
+						"direction": "h",
+						"title": "Gurren Lagann",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kamina.jpg",
+						"type": "image",
+						"answer": "kamina",
+						"letters": "KPZaaikmmn"
+					},
+					{
+						"x": 5,
+						"y": 3,
+						"direction": "v",
+						"title": "Inuyasha",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kirara.jpg",
+						"type": "image",
+						"answer": "kirara",
+						"letters": "Vaafikkmrr"
+					},
+					{
+						"x": 5,
+						"y": 8,
+						"direction": "v",
+						"title": "Agame Ga Kill",
+						"content": "https://lazaar.github.io/cw-resources/m/i/akame.jpg",
+						"type": "image",
+						"answer": "akame",
+						"letters": "aaejkkmnu"
+					}
+				]
+			},
+			{
+				"width": 12,
+				"height": 14,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Bleach: Este hueco se encontró por primera vez en el episodio 1 y no ha aparecido desde entonces. ¿Cuál era el nombre de este hueco?",
+						"type": "text",
+						"answer": "fishboned",
+						"letters": "NRbdefhijnors"
+					},
+					{
+						"x": 2,
+						"y": 0,
+						"direction": "h",
+						"title": "Gintama",
+						"content": "https://lazaar.github.io/cw-resources/m/i/shinpachi.jpg",
+						"type": "image",
+						"answer": "shinpachi",
+						"letters": "GGXachhiinpsz"
+					},
+					{
+						"x": 4,
+						"y": 0,
+						"direction": "h",
+						"title": "One Punch Man",
+						"content": "https://lazaar.github.io/cw-resources/m/i/boros.jpg",
+						"type": "image",
+						"answer": "boros",
+						"letters": "bbcjloors"
+					},
+					{
+						"x": 1,
+						"y": 8,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Naruto / shippuden: Después de que Ebisu fuera noqueado, ¿quién se convirtió en el nuevo maestro de Naruto?",
+						"type": "text",
+						"answer": "jiraiya",
+						"letters": "FJaaiijmrty"
+					},
+					{
+						"x": 4,
+						"y": 7,
+						"direction": "h",
+						"title": "princess Monoke",
+						"content": "https://lazaar.github.io/cw-resources/m/i/san.jpg",
+						"type": "image",
+						"answer": "san",
+						"letters": "Yajnstv"
+					},
+					{
+						"x": 10,
+						"y": 4,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿Cuál era el nombre del motor de búsqueda que usan en lugar de google?",
+						"type": "text",
+						"answer": "goodle",
+						"letters": "FGHYdegloo"
+					},
+					{
+						"x": 7,
+						"y": 8,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Gintoki tiene demasiado en su sangre",
+						"type": "text",
+						"answer": "azucar",
+						"letters": "EEaachpruz"
+					},
+					{
+						"x": 7,
+						"y": 9,
+						"direction": "v",
+						"title": "Fairy Tail",
+						"content": "https://lazaar.github.io/cw-resources/m/i/zeref.jpg",
+						"type": "image",
+						"answer": "zeref",
+						"letters": "eefgkmrxz"
+					},
+					{
+						"x": 7,
+						"y": 13,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿Quién viene a la mente de los personajes principales?",
+						"type": "text",
+						"answer": "rize",
+						"letters": "JSefirxz"
+					},
+					{
+						"x": 5,
+						"y": 5,
+						"direction": "v",
+						"title": "Pokemon",
+						"content": "https://lazaar.github.io/cw-resources/m/i/mewtwo.jpg",
+						"type": "image",
+						"answer": "mewtwo",
+						"letters": "XYaemotwwz"
+					}
+				]
+			},
+			{
+				"width": 12,
+				"height": 16,
+				"questions": [
+					{
+						"x": 11,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Boku No Hero: ¿Cuál es la peculiaridad de Katsuki?",
+						"type": "text",
+						"answer": "explosion",
+						"letters": "PYdeiilnoopsx"
+					},
+					{
+						"x": 0,
+						"y": 2,
+						"direction": "v",
+						"title": "Soul Eater",
+						"content": "https://lazaar.github.io/cw-resources/m/i/spirit.jpg",
+						"type": "image",
+						"answer": "spirit",
+						"letters": "FQiiprstux"
+					},
+					{
+						"x": 2,
+						"y": 0,
+						"direction": "h",
+						"title": "Psycho-pass",
+						"content": "https://lazaar.github.io/cw-resources/m/i/shinya.jpg",
+						"type": "image",
+						"answer": "shinya",
+						"letters": "Vadhhijnsy"
+					},
+					{
+						"x": 4,
+						"y": 1,
+						"direction": "h",
+						"title": "Tokyo Ghoul",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kishou.jpg",
+						"type": "image",
+						"answer": "kishou",
+						"letters": "MPYhijkosu"
+					},
+					{
+						"x": 4,
+						"y": 6,
+						"direction": "v",
+						"title": "One Piece",
+						"content": "https://lazaar.github.io/cw-resources/m/i/usopp.jpg",
+						"type": "image",
+						"answer": "usopp",
+						"letters": "Woppsuuvz"
+					},
+					{
+						"x": 6,
+						"y": 5,
+						"direction": "h",
+						"title": "Steins Gate",
+						"content": "https://lazaar.github.io/cw-resources/m/i/moeka.jpg",
+						"type": "image",
+						"answer": "moeka",
+						"letters": "Eaehklmot"
+					},
+					{
+						"x": 5,
+						"y": 9,
+						"direction": "v",
+						"title": "Bleach",
+						"content": "https://lazaar.github.io/cw-resources/m/i/tatsuki.jpg",
+						"type": "image",
+						"answer": "tatsuki",
+						"letters": "Aagijkrsttu"
+					},
+					{
+						"x": 7,
+						"y": 9,
+						"direction": "h",
+						"title": "One Out",
+						"content": "https://lazaar.github.io/cw-resources/m/i/tokuchi.jpg",
+						"type": "image",
+						"answer": "tokuchi",
+						"letters": "Jcchikotuuu"
+					},
+					{
+						"x": 2,
+						"y": 14,
+						"direction": "v",
+						"title": "nombre de anime",
+						"content": "https://lazaar.github.io/cw-resources/m/i/bleach.jpg",
+						"type": "image",
+						"answer": "bleach",
+						"letters": "MPWabcdehl"
+					},
+					{
+						"x": 4,
+						"y": 12,
+						"direction": "v",
+						"title": "El Libro De La Muerte",
+						"content": "https://lazaar.github.io/cw-resources/m/i/teru.jpg",
+						"type": "image",
+						"answer": "teru",
+						"letters": "aekkkrtu"
+					}
+				]
+			},
+			{
+				"width": 15,
+				"height": 15,
+				"questions": [
+					{
+						"x": 1,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Kuroko no Basketball : Midorima Shintaro cree completamente en",
+						"type": "text",
+						"answer": "horoscopos",
+						"letters": "HIchmooooprssu"
+					},
+					{
+						"x": 1,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: Después de la muerte de Kureo Mado, uno de los miembros de su familia se unió al CCG, era su...",
+						"type": "text",
+						"answer": "hija",
+						"letters": "Rachijnv"
+					},
+					{
+						"x": 1,
+						"y": 9,
+						"direction": "v",
+						"title": "Naruto",
+						"content": "https://lazaar.github.io/cw-resources/m/i/sasori.jpg",
+						"type": "image",
+						"answer": "sasori",
+						"letters": "AHOaiorrss"
+					},
+					{
+						"x": 6,
+						"y": 8,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: Steins Gate es un trabajo de colaboración entre 5pb y… ¿quién más?",
+						"type": "text",
+						"answer": "nitro",
+						"letters": "EGPinortz"
+					},
+					{
+						"x": 6,
+						"y": 8,
+						"direction": "v",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/nappa.jpg",
+						"type": "image",
+						"answer": "nappa",
+						"letters": "CFOaanppr"
+					},
+					{
+						"x": 2,
+						"y": 12,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Fairy tails: ¿Qué tipo de cazador de dragones es el personaje Natsu Dragneel?",
+						"type": "text",
+						"answer": "fuego",
+						"letters": "befgglotu"
+					},
+					{
+						"x": 10,
+						"y": 8,
+						"direction": "h",
+						"title": "Ataque a los Titanes",
+						"content": "https://lazaar.github.io/cw-resources/m/i/annie.jpg",
+						"type": "image",
+						"answer": "annie",
+						"letters": "IYaefilnn"
+					},
+					{
+						"x": 10,
+						"y": 10,
+						"direction": "v",
+						"title": "Elfen Lied",
+						"content": "https://lazaar.github.io/cw-resources/m/i/nana.jpg",
+						"type": "image",
+						"answer": "nana",
+						"letters": "FQQSaann"
+					},
+					{
+						"x": 13,
+						"y": 9,
+						"direction": "h",
+						"title": "Kuroko No Basket",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kagami.jpg",
+						"type": "image",
+						"answer": "kagami",
+						"letters": "IYaagikkmx"
+					},
+					{
+						"x": 0,
+						"y": 3,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿cómo se llaman las organizaciones terroristas?",
+						"type": "text",
+						"answer": "aogiri",
+						"letters": "JOQagiimor"
+					}
+				]
+			},
+			{
+				"width": 8,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Cowboy bebop: Faye solía vivir aquí antes de congelarse criogénicamente…",
+						"type": "text",
+						"answer": "singapur",
+						"letters": "aghinprrssuw"
+					},
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "¿Cuál es el nombre del hijo adoptivo del Fuhrer King Bradley?",
+						"type": "text",
+						"answer": "selim",
+						"letters": "FOeilmrsx"
+					},
+					{
+						"x": 0,
+						"y": 2,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "One Piece: ¿Quién fue la primera persona del CP9 en ser derrotado?",
+						"type": "text",
+						"answer": "nero",
+						"letters": "MRdenoru"
+					},
+					{
+						"x": 0,
+						"y": 7,
+						"direction": "v",
+						"title": "Bleach",
+						"content": "https://lazaar.github.io/cw-resources/m/i/rukia.jpg",
+						"type": "image",
+						"answer": "rukia",
+						"letters": "JYaikortu"
+					},
+					{
+						"x": 5,
+						"y": 2,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "One Piece: Luffy logra colarse en Impel Down. En el Nivel 1, Luffy se encuentra con un viejo enemigo, pero se une a él. ¿Quién es esta persona?",
+						"type": "text",
+						"answer": "buggy",
+						"letters": "FSXbegguy"
+					},
+					{
+						"x": 2,
+						"y": 7,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Code Geass: ¿Qué miembro del consejo estudiantil de Ashford Academy fue uno de los terroristas que Lelouch ayudó en Shinjuku?",
+						"type": "text",
+						"answer": "kallen",
+						"letters": "Habekkllnt"
+					},
+					{
+						"x": 4,
+						"y": 6,
+						"direction": "h",
+						"title": "ERASED",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kayo.jpg",
+						"type": "image",
+						"answer": "kayo",
+						"letters": "Tadfkkoy"
+					},
+					{
+						"x": 4,
+						"y": 6,
+						"direction": "v",
+						"title": "Clannad",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kyou.jpg",
+						"type": "image",
+						"answer": "kyou",
+						"letters": "CCPkotuy"
+					},
+					{
+						"x": 2,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Alquimista de Acero: Scar comenzó a dibujar un gran círculo de transmutación a través de una ciudad entera; era una matriz que haría la Piedra Filosofal. ¿En qué ciudad hizo Scar este arreglo?",
+						"type": "text",
+						"answer": "lior",
+						"letters": "AKMilors"
+					},
+					{
+						"x": 0,
+						"y": 12,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Sword Art Online: ¿A cuántas chicas ayudó Kirito?",
+						"type": "text",
+						"answer": "cinco",
+						"letters": "GJccinoqz"
+					}
+				]
+			}
+		]
+	},
+	{
+		"crosswords": [
+			{
+				"width": 15,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 1,
+						"direction": "h",
+						"title": "tokyo Ghoul",
+						"content": "https://lazaar.github.io/cw-resources/m/i/tsukiyama.jpg",
+						"type": "image",
+						"answer": "tsukiyama",
+						"letters": "Raaiikmqqstuy"
+					},
+					{
+						"x": 0,
+						"y": 1,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Boku No Hero: ¿Cuál es el nombre real de Allmight?",
+						"type": "text",
+						"answer": "toshinori",
+						"letters": "JNPShiinoorst"
+					},
+					{
+						"x": 0,
+						"y": 4,
+						"direction": "v",
+						"title": "Spirited Away",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kaonashi.jpg",
+						"type": "image",
+						"answer": "kaonashi",
+						"letters": "FMNaahiknoqs"
+					},
+					{
+						"x": 2,
+						"y": 3,
+						"direction": "h",
+						"title": "Kuroko No Basket",
+						"content": "https://lazaar.github.io/cw-resources/m/i/aomine.jpg",
+						"type": "image",
+						"answer": "aomine",
+						"letters": "PUaeimnoow"
+					},
+					{
+						"x": 4,
+						"y": 4,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: ¿Cómo se llama la Hermanita de Killua?",
+						"type": "text",
+						"answer": "alluka",
+						"letters": "CRWXaakllu"
+					},
+					{
+						"x": 7,
+						"y": 3,
+						"direction": "h",
+						"title": "Durarara",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kida.jpg",
+						"type": "image",
+						"answer": "kida",
+						"letters": "acdiikou"
+					},
+					{
+						"x": 7,
+						"y": 5,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿Qué es la bebida favorita de okabes?",
+						"type": "text",
+						"answer": "dkpepper",
+						"letters": "FFddeekopppr"
+					},
+					{
+						"x": 4,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Dragonball Z: ¿De qué color es el scouter de Nappa?",
+						"type": "text",
+						"answer": "azur",
+						"letters": "aefrsuvz"
+					},
+					{
+						"x": 14,
+						"y": 1,
+						"direction": "h",
+						"title": "Re Zero",
+						"content": "https://lazaar.github.io/cw-resources/m/i/subaru.jpg",
+						"type": "image",
+						"answer": "subaru",
+						"letters": "TXablrsuuz"
+					},
+					{
+						"x": 7,
+						"y": 9,
+						"direction": "h",
+						"title": "El Detective Conan",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ran.jpg",
+						"type": "image",
+						"answer": "ran",
+						"letters": "Baanprv"
+					}
+				]
+			},
+			{
+				"width": 11,
+				"height": 10,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Monster : ¿Quién es el magnífico Steiner?",
+						"type": "text",
+						"answer": "grimmer",
+						"letters": "Lacegimmmrr"
+					},
+					{
+						"x": 4,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Cuál es la fruta favorita del Shinigami de Light, Ryuk?",
+						"type": "text",
+						"answer": "manzana",
+						"letters": "Gaaajmnnvvz"
+					},
+					{
+						"x": 1,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: ¿Quién es el nuevo presidente electo?",
+						"type": "text",
+						"answer": "cheadle",
+						"letters": "INQacdeehlr"
+					},
+					{
+						"x": 4,
+						"y": 2,
+						"direction": "v",
+						"title": "Fairy Tail",
+						"content": "https://lazaar.github.io/cw-resources/m/i/natsu.jpg",
+						"type": "image",
+						"answer": "natsu",
+						"letters": "AGPagnstu"
+					},
+					{
+						"x": 3,
+						"y": 6,
+						"direction": "v",
+						"title": "ERASED",
+						"content": "https://lazaar.github.io/cw-resources/m/i/satoru.jpg",
+						"type": "image",
+						"answer": "satoru",
+						"letters": "CTaaorstux"
+					},
+					{
+						"x": 3,
+						"y": 6,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Cuántas El Libro De La Muertes se permiten en el mundo humano a la vez?",
+						"type": "text",
+						"answer": "seis",
+						"letters": "GRbbeiss"
+					},
+					{
+						"x": 3,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Naruto / shippuden: ¿A quién en el escuadrón siete no le enseñó Kakashi?",
+						"type": "text",
+						"answer": "sai",
+						"letters": "Haceios"
+					},
+					{
+						"x": 8,
+						"y": 5,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿Cuál es el nombre del propietario de Rintaro?",
+						"type": "text",
+						"answer": "yugo",
+						"letters": "Jglmouvy"
+					},
+					{
+						"x": 6,
+						"y": 8,
+						"direction": "v",
+						"title": "Pokemon",
+						"content": "https://lazaar.github.io/cw-resources/m/i/brock.jpg",
+						"type": "image",
+						"answer": "brock",
+						"letters": "EIJbbckor"
+					},
+					{
+						"x": 10,
+						"y": 6,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Cuál era el nombre de la organización en los Estados Unidos que estaba investigando a Kira?",
+						"type": "text",
+						"answer": "spk",
+						"letters": "Takppsu"
+					}
+				]
+			},
+			{
+				"width": 12,
+				"height": 12,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Bleach: ¿De quién es el comando \"Pray\"?",
+						"type": "text",
+						"answer": "jiruga",
+						"letters": "DPagijprtu"
+					},
+					{
+						"x": 1,
+						"y": 2,
+						"direction": "v",
+						"title": "Soul Eater",
+						"content": "https://lazaar.github.io/cw-resources/m/i/evans.jpg",
+						"type": "image",
+						"answer": "evans",
+						"letters": "AFabegnsv"
+					},
+					{
+						"x": 4,
+						"y": 0,
+						"direction": "h",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ginyu.jpg",
+						"type": "image",
+						"answer": "ginyu",
+						"letters": "agginnouy"
+					},
+					{
+						"x": 4,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "One Piece: ¿Qué personaje de 'One Piece' usa una honda y tiene una nariz muy larga?",
+						"type": "text",
+						"answer": "usopp",
+						"letters": "IKgooppsu"
+					},
+					{
+						"x": 8,
+						"y": 4,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Bleach: ¿Cómo se relacionaba Ichigo con el primer shinigami que conoció?",
+						"type": "text",
+						"answer": "padre",
+						"letters": "CFadeeprr"
+					},
+					{
+						"x": 4,
+						"y": 8,
+						"direction": "v",
+						"title": "Ataque a los Titanes",
+						"content": "https://lazaar.github.io/cw-resources/m/i/hange.jpg",
+						"type": "image",
+						"answer": "hange",
+						"letters": "Waeghntxy"
+					},
+					{
+						"x": 6,
+						"y": 6,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Cuál es el trabajo principal de Misa?",
+						"type": "text",
+						"answer": "modelo",
+						"letters": "OQdehlmooz"
+					},
+					{
+						"x": 5,
+						"y": 7,
+						"direction": "h",
+						"title": "One Piece",
+						"content": "https://lazaar.github.io/cw-resources/m/i/saber.jpg",
+						"type": "image",
+						"answer": "saber",
+						"letters": "Caberssvz"
+					},
+					{
+						"x": 11,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Code Geass: Cuando Lelouch formó un grupo de rebelión con los terroristas en Shinjuku, se dio a sí mismo un nombre en clave que tanto los británicos como los japoneses reconocían. ¿Cuál era ese nombre en clave?",
+						"type": "text",
+						"answer": "zero",
+						"letters": "aeioqruz"
+					},
+					{
+						"x": 7,
+						"y": 8,
+						"direction": "h",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/gon.jpg",
+						"type": "image",
+						"answer": "gon",
+						"letters": "BGLVgno"
+					}
+				]
+			},
+			{
+				"width": 18,
+				"height": 15,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Naruto / shippuden: ¿Quién es el primer Hokage?",
+						"type": "text",
+						"answer": "hashirama",
+						"letters": "GNYaaahhikmrs"
+					},
+					{
+						"x": 0,
+						"y": 3,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: ¿Quién salvó a Mikasa y Eren en el primer ataque de titanes?",
+						"type": "text",
+						"answer": "hannes",
+						"letters": "RVWadehnns"
+					},
+					{
+						"x": 3,
+						"y": 0,
+						"direction": "h",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/trunks.jpg",
+						"type": "image",
+						"answer": "trunks",
+						"letters": "Sgkknrstuw"
+					},
+					{
+						"x": 0,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "One Piece: Luffy y Buggy descienden al Nivel 2 y, mientras tanto, se ve al Warden of Impel Down por primera vez. ¿Quién es el guardián de Impel Down?",
+						"type": "text",
+						"answer": "magellan",
+						"letters": "JPWaaaegllmn"
+					},
+					{
+						"x": 5,
+						"y": 5,
+						"direction": "v",
+						"title": "Boku No Hero",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ochako.jpg",
+						"type": "image",
+						"answer": "ochako",
+						"letters": "BNSachkoot"
+					},
+					{
+						"x": 7,
+						"y": 4,
+						"direction": "h",
+						"title": "Neon Genesis",
+						"content": "https://lazaar.github.io/cw-resources/m/i/shinji.jpg",
+						"type": "image",
+						"answer": "shinji",
+						"letters": "Zahiijknsz"
+					},
+					{
+						"x": 10,
+						"y": 1,
+						"direction": "h",
+						"title": "SAO",
+						"content": "https://lazaar.github.io/cw-resources/m/i/eugeo.jpg",
+						"type": "image",
+						"answer": "eugeo",
+						"letters": "Leeghhnou"
+					},
+					{
+						"x": 5,
+						"y": 7,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Code Geass: En la primera temporada, \"Lelouch of the Rebellion\", ¿con quién está comprometida Milly Ashford?",
+						"type": "text",
+						"answer": "lloyd",
+						"letters": "Zcdllorsy"
+					},
+					{
+						"x": 2,
+						"y": 7,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Sword Art Online: ¿Quién fue el responsable de la muerte de Griselda?",
+						"type": "text",
+						"answer": "grimlock",
+						"letters": "AUUcggiklmor"
+					},
+					{
+						"x": 7,
+						"y": 9,
+						"direction": "v",
+						"title": "Ippo",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ippo.jpg",
+						"type": "image",
+						"answer": "ippo",
+						"letters": "UVcimopp"
+					}
+				]
+			},
+			{
+				"width": 16,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 3,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Dragonball Z: ¿Con qué sueña Goku cuando cae al infierno?",
+						"type": "text",
+						"answer": "rosquilla",
+						"letters": "aehillmoqrssu"
+					},
+					{
+						"x": 2,
+						"y": 3,
+						"direction": "h",
+						"title": "Code Geass",
+						"content": "https://lazaar.github.io/cw-resources/m/i/suzaku.jpg",
+						"type": "image",
+						"answer": "suzaku",
+						"letters": "GZafkpsuuz"
+					},
+					{
+						"x": 0,
+						"y": 7,
+						"direction": "v",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/pokkle.jpg",
+						"type": "image",
+						"answer": "pokkle",
+						"letters": "Tefkklmopv"
+					},
+					{
+						"x": 4,
+						"y": 5,
+						"direction": "h",
+						"title": "Code Geass",
+						"content": "https://lazaar.github.io/cw-resources/m/i/rolo.jpg",
+						"type": "image",
+						"answer": "rolo",
+						"letters": "FLNVloor"
+					},
+					{
+						"x": 8,
+						"y": 3,
+						"direction": "h",
+						"title": "SAO",
+						"content": "https://lazaar.github.io/cw-resources/m/i/asuna.jpg",
+						"type": "image",
+						"answer": "asuna",
+						"letters": "STaansssu"
+					},
+					{
+						"x": 6,
+						"y": 6,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Cowboy bebop: ¿En qué convierte el virus en el vial a las personas?",
+						"type": "text",
+						"answer": "monos",
+						"letters": "EOhmnoosu"
+					},
+					{
+						"x": 10,
+						"y": 4,
+						"direction": "h",
+						"title": "Angel Beats",
+						"content": "https://lazaar.github.io/cw-resources/m/i/masami.jpg",
+						"type": "image",
+						"answer": "masami",
+						"letters": "IUYaaimmsz"
+					},
+					{
+						"x": 10,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Boku No Hero: En el ataque de SCA, Izuku estaba con Tsuyu y...",
+						"type": "text",
+						"answer": "minoru",
+						"letters": "RRWeimnoru"
+					},
+					{
+						"x": 9,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: Eren se puede transormar a...",
+						"type": "text",
+						"answer": "titan",
+						"letters": "CUainttzz"
+					},
+					{
+						"x": 13,
+						"y": 7,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Cowboy bebop: ¿Quién se une primero a la tripulación del Bebop?",
+						"type": "text",
+						"answer": "ein",
+						"letters": "COceinw"
+					}
+				]
+			},
+			{
+				"width": 15,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 3,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Alquimista de Acero: ¿En qué estación se da el eclipse solar y el Día Prometido?",
+						"type": "text",
+						"answer": "primavera",
+						"letters": "NOYZaaeimprrv"
+					},
+					{
+						"x": 0,
+						"y": 6,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Bleach: ¿A quién intentaba proteger Chad cuando utilizó su brazo derecho del gigante por primera vez?",
+						"type": "text",
+						"answer": "karin",
+						"letters": "HQaadiknr"
+					},
+					{
+						"x": 3,
+						"y": 5,
+						"direction": "h",
+						"title": "Durarara",
+						"content": "https://lazaar.github.io/cw-resources/m/i/mikado.jpg",
+						"type": "image",
+						"answer": "mikado",
+						"letters": "LQWadfikmo"
+					},
+					{
+						"x": 6,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Fairy tails: ¿Quién es el personaje que habla de hombría todo el tiempo?",
+						"type": "text",
+						"answer": "elfman",
+						"letters": "Rabeflmnqw"
+					},
+					{
+						"x": 1,
+						"y": 8,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "One Piece: ¿Quién es el padre de Luffy?",
+						"type": "text",
+						"answer": "dragon",
+						"letters": "LNOXadgnor"
+					},
+					{
+						"x": 6,
+						"y": 5,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Alquimista de Acero: ¿Qué alquimista es Edward Elric?",
+						"type": "text",
+						"answer": "fullmetal",
+						"letters": "NPYaeflllmptu"
+					},
+					{
+						"x": 2,
+						"y": 10,
+						"direction": "v",
+						"title": "Monster",
+						"content": "https://lazaar.github.io/cw-resources/m/i/johan.jpg",
+						"type": "image",
+						"answer": "johan",
+						"letters": "Iahjknoww"
+					},
+					{
+						"x": 11,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Akama Ga Kill: ¿Quién del Night Raid muere primero?",
+						"type": "text",
+						"answer": "shelee",
+						"letters": "MTeeehlpss"
+					},
+					{
+						"x": 8,
+						"y": 7,
+						"direction": "v",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kite.jpg",
+						"type": "image",
+						"answer": "kite",
+						"letters": "LMQWeikt"
+					},
+					{
+						"x": 8,
+						"y": 7,
+						"direction": "h",
+						"title": "Kuroko",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kise.jpg",
+						"type": "image",
+						"answer": "kise",
+						"letters": "DReikpss"
+					}
+				]
+			},
+			{
+				"width": 14,
+				"height": 14,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Bleach: ¿Cuál es el nombre de la forma liberada de Zanpaku-to de Kaname Tosen?",
+						"type": "text",
+						"answer": "suzumushi",
+						"letters": "TXfhimmssuuuz"
+					},
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "Gurren Lagann",
+						"content": "https://lazaar.github.io/cw-resources/m/i/simon.jpg",
+						"type": "image",
+						"answer": "simon",
+						"letters": "OSimnossz"
+					},
+					{
+						"x": 2,
+						"y": 2,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: ¿Los Zoldycks son una familia de qué?",
+						"type": "text",
+						"answer": "asesinos",
+						"letters": "EWaefinosssy"
+					},
+					{
+						"x": 0,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Bleach: ¿Quién tiene el Zanpakuto llamado Hisagomaru?",
+						"type": "text",
+						"answer": "hanataro",
+						"letters": "STaaahnooqrt"
+					},
+					{
+						"x": 5,
+						"y": 2,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "¿Cómo se llama Ed y la madre de Al?",
+						"type": "text",
+						"answer": "trisha",
+						"letters": "JVahikrsst"
+					},
+					{
+						"x": 4,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Quién le dijo a Mello que una de las reglas en la El Libro De La Muerte que adquirió era falsa?",
+						"type": "text",
+						"answer": "sidoh",
+						"letters": "BOYdhilos"
+					},
+					{
+						"x": 7,
+						"y": 6,
+						"direction": "h",
+						"title": "Tokyo Ghoul",
+						"content": "https://lazaar.github.io/cw-resources/m/i/koutarou.jpg",
+						"type": "image",
+						"answer": "koutarou",
+						"letters": "BKakoortuuwx"
+					},
+					{
+						"x": 5,
+						"y": 11,
+						"direction": "v",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kurapika.jpg",
+						"type": "image",
+						"answer": "kurapika",
+						"letters": "Paadikknprsu"
+					},
+					{
+						"x": 9,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿Cuál es la única bebida que sabe igual para los demonios y los humanos?",
+						"type": "text",
+						"answer": "cafe",
+						"letters": "QVacfgqe"
+					},
+					{
+						"x": 11,
+						"y": 7,
+						"direction": "h",
+						"title": "One Piece",
+						"content": "https://lazaar.github.io/cw-resources/m/i/franky.jpg",
+						"type": "image",
+						"answer": "franky",
+						"letters": "AAJVafknry"
+					}
+				]
+			},
+			{
+				"width": 11,
+				"height": 16,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Nanatsu No Taizai :  ¿Quién es el antiguo líder de los diez mandamientos?",
+						"type": "text",
+						"answer": "meliodas",
+						"letters": "Xacdeilmosty"
+					},
+					{
+						"x": 3,
+						"y": 2,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Cowboy bebop: ¿De quién era Julia originalmente novia?",
+						"type": "text",
+						"answer": "visious",
+						"letters": "LRSiikossuv"
+					},
+					{
+						"x": 0,
+						"y": 7,
+						"direction": "v",
+						"title": "Steins Gate",
+						"content": "https://lazaar.github.io/cw-resources/m/i/suzuha.jpg",
+						"type": "image",
+						"answer": "suzuha",
+						"letters": "DRXahnsuuz"
+					},
+					{
+						"x": 5,
+						"y": 7,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "One Piece: ¿Quién es el primer oponente principal de Luffy?",
+						"type": "text",
+						"answer": "alvida",
+						"letters": "Naadilnvyz"
+					},
+					{
+						"x": 2,
+						"y": 10,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Naruto / shippuden: ¿Los exámenes de Chunin comenzaron en qué mes?",
+						"type": "text",
+						"answer": "julio",
+						"letters": "EWijlnosu"
+					},
+					{
+						"x": 2,
+						"y": 10,
+						"direction": "h",
+						"title": "Tokyo Ghoul",
+						"content": "https://lazaar.github.io/cw-resources/m/i/juuzou.jpg",
+						"type": "image",
+						"answer": "juuzou",
+						"letters": "EIdfjouuuz"
+					},
+					{
+						"x": 1,
+						"y": 14,
+						"direction": "v",
+						"title": "One Piece",
+						"content": "https://lazaar.github.io/cw-resources/m/i/robin.jpg",
+						"type": "image",
+						"answer": "robin",
+						"letters": "bdiijnoru"
+					},
+					{
+						"x": 4,
+						"y": 12,
+						"direction": "v",
+						"title": "Fairy Tail",
+						"content": "https://lazaar.github.io/cw-resources/m/i/happy.jpg",
+						"type": "image",
+						"answer": "happy",
+						"letters": "Vabcehppy"
+					},
+					{
+						"x": 8,
+						"y": 8,
+						"direction": "h",
+						"title": "Fairy Tail",
+						"content": "https://lazaar.github.io/cw-resources/m/i/wendy.jpg",
+						"type": "image",
+						"answer": "wendy",
+						"letters": "Odehlnnwy"
+					},
+					{
+						"x": 7,
+						"y": 9,
+						"direction": "v",
+						"title": "Ataque a los Titanes",
+						"content": "https://lazaar.github.io/cw-resources/m/i/jean.jpg",
+						"type": "image",
+						"answer": "jean",
+						"letters": "EUUaejjn"
+					}
+				]
+			},
+			{
+				"width": 13,
+				"height": 14,
+				"questions": [
+					{
+						"x": 2,
+						"y": 2,
+						"direction": "v",
+						"title": "Toradora",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ami.jpg",
+						"type": "image",
+						"answer": "ami",
+						"letters": "FLSaimv"
+					},
+					{
+						"x": 3,
+						"y": 2,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Cowboy bebop: ¿Cuál fue el regalo de despedida de Ed a Spike?",
+						"type": "text",
+						"answer": "molinillo",
+						"letters": "IJPhiilllmnoo"
+					},
+					{
+						"x": 1,
+						"y": 8,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Naruto / shippuden: ¿Qué significa el símbolo en la frente de Gaara?",
+						"type": "text",
+						"answer": "amor",
+						"letters": "BCakmopr"
+					},
+					{
+						"x": 3,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: ¿Quién es el autor de shingeki no kyojin?",
+						"type": "text",
+						"answer": "isayama",
+						"letters": "LTaaaillmsy"
+					},
+					{
+						"x": 0,
+						"y": 10,
+						"direction": "v",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/popo.jpg",
+						"type": "image",
+						"answer": "popo",
+						"letters": "VYoopppx"
+					},
+					{
+						"x": 5,
+						"y": 6,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: ¿Cuál es el apellido de Eren?",
+						"type": "text",
+						"answer": "jager",
+						"letters": "SWXaegjrt"
+					},
+					{
+						"x": 7,
+						"y": 5,
+						"direction": "h",
+						"title": "Cowboy Bebop",
+						"content": "https://lazaar.github.io/cw-resources/m/i/black.jpg",
+						"type": "image",
+						"answer": "black",
+						"letters": "WXabckltu"
+					},
+					{
+						"x": 9,
+						"y": 5,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: La capacidad de retener recuerdos a través de las líneas del mundo se llama ______ Steiner",
+						"type": "text",
+						"answer": "reading",
+						"letters": "Eaadegginnr"
+					},
+					{
+						"x": 9,
+						"y": 5,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Code Geass: ¿Quién mató a Shirley?",
+						"type": "text",
+						"answer": "rolo",
+						"letters": "Uaeloopr"
+					},
+					{
+						"x": 12,
+						"y": 4,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿Quién es el miembro del laboratorio 005?",
+						"type": "text",
+						"answer": "moeka",
+						"letters": "KRaefkmou"
+					}
+				]
+			},
+			{
+				"width": 15,
+				"height": 14,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Code Geass: Los Black Knights supieron la verdadera identidad de Zero. ¿Quién les reveló esto?",
+						"type": "text",
+						"answer": "schneizel",
+						"letters": "EUceefhilnssz"
+					},
+					{
+						"x": 0,
+						"y": 2,
+						"direction": "v",
+						"title": "Angel Beats",
+						"content": "https://lazaar.github.io/cw-resources/m/i/hideki.jpg",
+						"type": "image",
+						"answer": "hideki",
+						"letters": "Rdehiikrvv"
+					},
+					{
+						"x": 5,
+						"y": 0,
+						"direction": "h",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/frieza.jpg",
+						"type": "image",
+						"answer": "frieza",
+						"letters": "PTTaeefirz"
+					},
+					{
+						"x": 3,
+						"y": 5,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Dragonball Z: ¿Cuántas Esferas del Dragón posee Frieza cuando los héroes llegan a Namek?",
+						"type": "text",
+						"answer": "cuatro",
+						"letters": "GSacghortu"
+					},
+					{
+						"x": 8,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Code Geass: Lelouch fue capturado por los británicos, ¿quién lo liberó de la captura?",
+						"type": "text",
+						"answer": "guilford",
+						"letters": "AERdfgikloru"
+					},
+					{
+						"x": 7,
+						"y": 3,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Alquimista de Acero: ¿Qué tenían prohibido hacer los isbaláses?",
+						"type": "text",
+						"answer": "alquimia",
+						"letters": "ELaaciilmqru"
+					},
+					{
+						"x": 1,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿Cómo se llama el ojo de un ghoul?",
+						"type": "text",
+						"answer": "kakugan",
+						"letters": "HUaagkknquw"
+					},
+					{
+						"x": 6,
+						"y": 5,
+						"direction": "h",
+						"title": "Soul Eater",
+						"content": "https://lazaar.github.io/cw-resources/m/i/tsubaki.jpg",
+						"type": "image",
+						"answer": "tsubaki",
+						"letters": "Pabikoostuy"
+					},
+					{
+						"x": 2,
+						"y": 9,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿Qué personaje realmente no existe en la línea mundial de Steins Gate?",
+						"type": "text",
+						"answer": "amane",
+						"letters": "GUaademmn"
+					},
+					{
+						"x": 6,
+						"y": 11,
+						"direction": "v",
+						"title": "HxH",
+						"content": "https://lazaar.github.io/cw-resources/m/i/illumi.jpg",
+						"type": "image",
+						"answer": "illumi",
+						"letters": "Sfhiillmsu"
+					}
+				]
+			}
+		]
+	},
+	{
+		"crosswords": [
+			{
+				"width": 8,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "Kuroko No Basket",
+						"content": "https://lazaar.github.io/cw-resources/m/i/midorima.jpg",
+						"type": "image",
+						"answer": "midorima",
+						"letters": "Iadiimmorvwz"
+					},
+					{
+						"x": 1,
+						"y": 0,
+						"direction": "h",
+						"title": "Guilty Crown",
+						"content": "https://lazaar.github.io/cw-resources/m/i/inori.jpg",
+						"type": "image",
+						"answer": "inori",
+						"letters": "OWaiinort"
+					},
+					{
+						"x": 0,
+						"y": 2,
+						"direction": "v",
+						"title": "No Game No Life",
+						"content": "https://lazaar.github.io/cw-resources/m/i/sora.jpg",
+						"type": "image",
+						"answer": "sora",
+						"letters": "aikorswx"
+					},
+					{
+						"x": 0,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Sword Art Online: La habilidad que sólo Kirito tenía y que nadie más podía realizar se llama Dual ____",
+						"type": "text",
+						"answer": "wield",
+						"letters": "QSdeilwxy"
+					},
+					{
+						"x": 2,
+						"y": 4,
+						"direction": "h",
+						"title": "Fairy Tail",
+						"content": "https://lazaar.github.io/cw-resources/m/i/erza.jpg",
+						"type": "image",
+						"answer": "erza",
+						"letters": "EKWXaerz"
+					},
+					{
+						"x": 0,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Boku No Hero: La habilidad de Ochako le permite llegar de _____ a cero",
+						"type": "text",
+						"answer": "gravedad",
+						"letters": "CFLPaaddegrv"
+					},
+					{
+						"x": 1,
+						"y": 9,
+						"direction": "v",
+						"title": "Spirited Away",
+						"content": "https://lazaar.github.io/cw-resources/m/i/yubaba.jpg",
+						"type": "image",
+						"answer": "yubaba",
+						"letters": "FSaaaabbuy"
+					},
+					{
+						"x": 2,
+						"y": 9,
+						"direction": "h",
+						"title": "Bleach",
+						"content": "https://lazaar.github.io/cw-resources/m/i/uryu.jpg",
+						"type": "image",
+						"answer": "uryu",
+						"letters": "Vcjruuwy"
+					},
+					{
+						"x": 6,
+						"y": 6,
+						"direction": "h",
+						"title": "Naruto",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kakashi.jpg",
+						"type": "image",
+						"answer": "kakashi",
+						"letters": "JTaahiikksv"
+					}
+				]
+			},
+			{
+				"width": 11,
+				"height": 14,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Pokemon: ¿Cuál fue el primer Pokémon que Ash atrapó por sí mismo?",
+						"type": "text",
+						"answer": "caterpie",
+						"letters": "ESTabceeiprt"
+					},
+					{
+						"x": 0,
+						"y": 2,
+						"direction": "h",
+						"title": "Clannad",
+						"content": "https://lazaar.github.io/cw-resources/m/i/nagisa.jpg",
+						"type": "image",
+						"answer": "nagisa",
+						"letters": "HKaagilnns"
+					},
+					{
+						"x": 5,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Code Geass: ¿Cuál es el color de ojos de casi toda la familia real de Britannia?",
+						"type": "text",
+						"answer": "purpura",
+						"letters": "BXabjpprruu"
+					},
+					{
+						"x": 0,
+						"y": 6,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Ataque a los Titanes: La pared más interna es___",
+						"type": "text",
+						"answer": "sheena",
+						"letters": "Taeehnssuy"
+					},
+					{
+						"x": 2,
+						"y": 5,
+						"direction": "h",
+						"title": "Monster",
+						"content": "https://lazaar.github.io/cw-resources/m/i/tenma.jpg",
+						"type": "image",
+						"answer": "tenma",
+						"letters": "CHaeimntt"
+					},
+					{
+						"x": 5,
+						"y": 2,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Quién mató a L?",
+						"type": "text",
+						"answer": "rem",
+						"letters": "NWelmrs"
+					},
+					{
+						"x": 1,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿Para quién trabaja Mayuri?",
+						"type": "text",
+						"answer": "faris",
+						"letters": "DEQVafirs"
+					},
+					{
+						"x": 3,
+						"y": 9,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "El Libro De La Muerte: ¿Quién fue la primera persona en descubrir que Light era kira?",
+						"type": "text",
+						"answer": "raye",
+						"letters": "AVYaemry"
+					},
+					{
+						"x": 5,
+						"y": 9,
+						"direction": "h",
+						"title": "SAO",
+						"content": "https://lazaar.github.io/cw-resources/m/i/sinon.jpg",
+						"type": "image",
+						"answer": "sinon",
+						"letters": "FLTimnnos"
+					},
+					{
+						"x": 4,
+						"y": 13,
+						"direction": "v",
+						"title": "Pokemon",
+						"content": "https://lazaar.github.io/cw-resources/m/i/snorlax.jpg",
+						"type": "image",
+						"answer": "snorlax",
+						"letters": "adhlnoprrsx"
+					}
+				]
+			},
+			{
+				"width": 11,
+				"height": 10,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "GTO: ¿Qué estudiante es el intimidado que intenta suicidarse?",
+						"type": "text",
+						"answer": "yoshikawa",
+						"letters": "DUaaehikmoswy"
+					},
+					{
+						"x": 2,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Cowboy bebop: ¿Cuál es el nombre de la nave de caza de Spike?",
+						"type": "text",
+						"answer": "swordfish",
+						"letters": "Ocdfhijorsswx"
+					},
+					{
+						"x": 1,
+						"y": 2,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: ¿quién mató a Pitou?",
+						"type": "text",
+						"answer": "gon",
+						"letters": "EKglnoy"
+					},
+					{
+						"x": 0,
+						"y": 5,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Naruto / shippuden: ¿Quién es el verdadero líder del akatsuki?",
+						"type": "text",
+						"answer": "tobi",
+						"letters": "Ibiiiort"
+					},
+					{
+						"x": 2,
+						"y": 4,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Code Geass: Como la popularidad de Suzaku creció con los japoneses después de ser nombrado caballero, los Black Knights estaban preocupados de que su grupo perdiera apoyo. ¿Quién en el grupo sugirió asesinar a Suzaku Kururugi?",
+						"type": "text",
+						"answer": "diethard",
+						"letters": "MUaddehijrtv"
+					},
+					{
+						"x": 0,
+						"y": 7,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Sword Art Online: ¿Dónde kirito y asuna encuentran a Yui?",
+						"type": "text",
+						"answer": "bosque",
+						"letters": "IObceoqqsu"
+					},
+					{
+						"x": 5,
+						"y": 3,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: ¿Quién hace las máscaras?",
+						"type": "text",
+						"answer": "uta",
+						"letters": "Jahkntu"
+					},
+					{
+						"x": 7,
+						"y": 2,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Boku No Hero: ¿Quién mató a Ingenium?",
+						"type": "text",
+						"answer": "stain",
+						"letters": "ILaeiinst"
+					},
+					{
+						"x": 4,
+						"y": 6,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "One Piece: ¿Cómo se llama Luffy para entrar en el Coliseo de Dressrosa?",
+						"type": "text",
+						"answer": "lucy",
+						"letters": "Tcijlpuy"
+					},
+					{
+						"x": 7,
+						"y": 6,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "One Piece: ¿Quién controla el clima con su arma y es el navegador de los Sombreros de Paja de ficción?",
+						"type": "text",
+						"answer": "nami",
+						"letters": "aeikmmnv"
+					}
+				]
+			},
+			{
+				"width": 9,
+				"height": 12,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Además de ser un jugador de baloncesto, Kise también es…",
+						"type": "text",
+						"answer": "modelo",
+						"letters": "MRRdelmnoo"
+					},
+					{
+						"x": 0,
+						"y": 5,
+						"direction": "v",
+						"title": "Code Geass",
+						"content": "https://lazaar.github.io/cw-resources/m/i/orange.jpg",
+						"type": "image",
+						"answer": "orange",
+						"letters": "AKaeglnory"
+					},
+					{
+						"x": 2,
+						"y": 4,
+						"direction": "h",
+						"title": "Naruto",
+						"content": "https://lazaar.github.io/cw-resources/m/i/sakura.jpg",
+						"type": "image",
+						"answer": "sakura",
+						"letters": "aakkprsuwy"
+					},
+					{
+						"x": 0,
+						"y": 7,
+						"direction": "v",
+						"title": "parasyte",
+						"content": "https://lazaar.github.io/cw-resources/m/i/izumi.jpg",
+						"type": "image",
+						"answer": "izumi",
+						"letters": "MSgiimuvz"
+					},
+					{
+						"x": 5,
+						"y": 2,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Steins Gate: ¿Quién es el diseñador de personajes de Steins Gate?",
+						"type": "text",
+						"answer": "huke",
+						"letters": "FTehknpu"
+					},
+					{
+						"x": 4,
+						"y": 3,
+						"direction": "v",
+						"title": "One Piece",
+						"content": "https://lazaar.github.io/cw-resources/m/i/luffy.jpg",
+						"type": "image",
+						"answer": "luffy",
+						"letters": "NNffhiluy"
+					},
+					{
+						"x": 8,
+						"y": 2,
+						"direction": "h",
+						"title": "Kill La Kill",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ryuko.jpg",
+						"type": "image",
+						"answer": "ryuko",
+						"letters": "DRjkopruy"
+					},
+					{
+						"x": 2,
+						"y": 9,
+						"direction": "v",
+						"title": "naruto",
+						"content": "https://lazaar.github.io/cw-resources/m/i/asuma.jpg",
+						"type": "image",
+						"answer": "asuma",
+						"letters": "Xaaeimmsu"
+					},
+					{
+						"x": 6,
+						"y": 6,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Tokyo Ghoul: Vio a su madre siendo asesinada, y luego, ¿tuvo que luchar contra su asesino?",
+						"type": "text",
+						"answer": "hinami",
+						"letters": "HVWahiimnw"
+					},
+					{
+						"x": 5,
+						"y": 11,
+						"direction": "v",
+						"title": "FullMetal",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ling.jpg",
+						"type": "image",
+						"answer": "ling",
+						"letters": "JZgijlny"
+					}
+				]
+			},
+			{
+				"width": 14,
+				"height": 15,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "v",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/chiaotzu.jpg",
+						"type": "image",
+						"answer": "chiaotzu",
+						"letters": "Hacghinoqtuz"
+					},
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Fairy tails: ¿Qué tipo de asesino de dragones es Wendy Marvell?",
+						"type": "text",
+						"answer": "cielo",
+						"letters": "CMTcegilo"
+					},
+					{
+						"x": 3,
+						"y": 0,
+						"direction": "h",
+						"title": "DBZ",
+						"content": "https://lazaar.github.io/cw-resources/m/i/ash.jpg",
+						"type": "image",
+						"answer": "ash",
+						"letters": "MRahjks"
+					},
+					{
+						"x": 6,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "¿Cuál es el nombre del Jounin que ataca a Naruto y al grupo?",
+						"type": "text",
+						"answer": "zabuza",
+						"letters": "ADaabiuyzz"
+					},
+					{
+						"x": 5,
+						"y": 5,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "¿Quién es la primera persona con la que Naruto usa el Rasengan con éxito?",
+						"type": "text",
+						"answer": "kabuto",
+						"letters": "AKabfkottu"
+					},
+					{
+						"x": 9,
+						"y": 1,
+						"direction": "h",
+						"title": "Ippo",
+						"content": "https://lazaar.github.io/cw-resources/m/i/miyata.jpg",
+						"type": "image",
+						"answer": "miyata",
+						"letters": "BDXaagimty"
+					},
+					{
+						"x": 5,
+						"y": 5,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Dragonball Z: ¿Quién creó las Esferas del Dragón?",
+						"type": "text",
+						"answer": "kami",
+						"letters": "EGaikkmw"
+					},
+					{
+						"x": 9,
+						"y": 2,
+						"direction": "v",
+						"title": "Boku No Hero",
+						"content": "https://lazaar.github.io/cw-resources/m/i/izuku.jpg",
+						"type": "image",
+						"answer": "izuku",
+						"letters": "OQiijkuuz"
+					},
+					{
+						"x": 4,
+						"y": 8,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "¿Quién libera a Pride de la prisión de la tierra fuera de Kanama?",
+						"type": "text",
+						"answer": "kimblee",
+						"letters": "IZbeeiklmqx"
+					},
+					{
+						"x": 4,
+						"y": 8,
+						"direction": "h",
+						"title": "El Detective Conan",
+						"content": "https://lazaar.github.io/cw-resources/m/i/kogorou.jpg",
+						"type": "image",
+						"answer": "kogorou",
+						"letters": "Fghkooooruv"
+					}
+				]
+			},
+			{
+				"width": 16,
+				"height": 13,
+				"questions": [
+					{
+						"x": 0,
+						"y": 0,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Dragonball Z: ¿En qué se convirtió Dabura por Majin Buu?",
+						"type": "text",
+						"answer": "galleta",
+						"letters": "Qaaaefggllt"
+					},
+					{
+						"x": 3,
+						"y": 1,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Dragonball Z: Goku es un luchador poderoso. Sólo hay una persona a quien Goku teme. ¿Quién es?",
+						"type": "text",
+						"answer": "chichi",
+						"letters": "Mbccehhiiy"
+					},
+					{
+						"x": 0,
+						"y": 6,
+						"direction": "v",
+						"title": "Ataque a los Titanes",
+						"content": "https://lazaar.github.io/cw-resources/m/i/armin.jpg",
+						"type": "image",
+						"answer": "armin",
+						"letters": "PTaaimnru"
+					},
+					{
+						"x": 4,
+						"y": 6,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Fairy tails: ¿Qué personaje se denominaba a menudo 'Salamander'?",
+						"type": "text",
+						"answer": "natsu",
+						"letters": "MRannsstu"
+					},
+					{
+						"x": 3,
+						"y": 9,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "El Alquimista de Acero: ¿Cuál es el nombre del Dios que adoran los Ishbalen?",
+						"type": "text",
+						"answer": "ishbala",
+						"letters": "EGQaabhilst"
+					},
+					{
+						"x": 11,
+						"y": 5,
+						"direction": "h",
+						"title": "nombre de anime",
+						"content": "https://lazaar.github.io/cw-resources/m/i/btooom.jpg",
+						"type": "image",
+						"answer": "btooom",
+						"letters": "MYbbmoooot"
+					},
+					{
+						"x": 9,
+						"y": 7,
+						"direction": "h",
+						"title": "pregunta",
+						"content": "Bleach: ¿Quién es conocido como la 'Primera Espada'?",
+						"type": "text",
+						"answer": "starrk",
+						"letters": "CRZakrrsty"
+					},
+					{
+						"x": 11,
+						"y": 9,
+						"direction": "v",
+						"title": "Gintama",
+						"content": "https://lazaar.github.io/cw-resources/m/i/okita.jpg",
+						"type": "image",
+						"answer": "okita",
+						"letters": "STaikkotu"
+					},
+					{
+						"x": 9,
+						"y": 12,
+						"direction": "v",
+						"title": "pregunta",
+						"content": "Hunter X Hunter: El oponente de Gungi del Rey",
+						"type": "text",
+						"answer": "komugi",
+						"letters": "Zfgikmouxy"
+					},
+					{
+						"x": 14,
+						"y": 7,
+						"direction": "h",
+						"title": "Your Lie In April",
+						"content": "https://lazaar.github.io/cw-resources/m/i/watari.jpg",
+						"type": "image",
+						"answer": "watari",
+						"letters": "JXaadirtvw"
+					}
+				]
+			}
+		]
+	}
+]
